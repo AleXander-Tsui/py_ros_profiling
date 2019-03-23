@@ -1,0 +1,1138 @@
+[0m[ INFO] [1553243119.673539284]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243119.686884738]: DPU NetVLAD heard: [hello world 5][0m
+[0m[ INFO] [1553243119.753217727]: image ID: 5; starting time: 1553243119.686964366; finishing time: 1553243119.753160001[0m
+[0m[ INFO] [1553243119.771691143]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243119.789754678]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243119.794640676]: DPU NetVLAD heard: [hello world 7][0m
+[0m[ INFO] [1553243119.860855583]: image ID: 7; starting time: 1553243119.794704752; finishing time: 1553243119.860798267[0m
+[0m[ INFO] [1553243119.875449441]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243119.937351447]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243119.972841813]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.036243839]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243120.077644106]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.137310668]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.179442408]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243120.181699023]: DPU NetVLAD heard: [hello world 15][0m
+[0m[ INFO] [1553243120.247951914]: image ID: 15; starting time: 1553243120.181754679; finishing time: 1553243120.247889897[0m
+[0m[ INFO] [1553243120.260313149]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.283911767]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243120.325172600]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243120.383334212]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.427316497]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.485346155]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.527880995]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243120.532014258]: DPU NetVLAD heard: [hello world 22][0m
+[0m[ INFO] [1553243120.598236266]: image ID: 22; starting time: 1553243120.532073384; finishing time: 1553243120.598174509[0m
+[0m[ INFO] [1553243120.612564627]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.634330442]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243120.676615988]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243120.734481460]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243120.777182177]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.837114015]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.876802631]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243120.882113102]: DPU NetVLAD heard: [hello world 29][0m
+[0m[ INFO] [1553243120.948335049]: image ID: 29; starting time: 1553243120.882173138; finishing time: 1553243120.948274823[0m
+[0m[ INFO] [1553243120.959394044]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243120.981192712]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.042328771]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.082074613]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.139698661]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243121.182455553]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.240382561]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243121.282736803]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243121.290885047]: DPU NetVLAD heard: [hello world 37][0m
+[0m[ INFO] [1553243121.357106714]: image ID: 37; starting time: 1553243121.290939473; finishing time: 1553243121.357040438[0m
+[0m[ INFO] [1553243121.371956378]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.431872535]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243121.472167761]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.532485098]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243121.571940881]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.633234425]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243121.675210280]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243121.679017160]: DPU NetVLAD heard: [hello world 45][0m
+[0m[ INFO] [1553243121.745241437]: image ID: 45; starting time: 1553243121.679081897; finishing time: 1553243121.745178931[0m
+[0m[ INFO] [1553243121.754254298]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.779330104]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.839988865]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.880868349]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.937770065]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243121.977805786]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.042496049]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243122.078619819]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243122.083795376]: DPU NetVLAD heard: [hello world 53][0m
+[0m[ INFO] [1553243122.150015973]: image ID: 53; starting time: 1553243122.083856042; finishing time: 1553243122.149953796[0m
+[0m[ INFO] [1553243122.159236244]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.182889527]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243122.227143279]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.282899780]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.327432490]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.386311493]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.427716070]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243122.436627220]: DPU NetVLAD heard: [hello world 60][0m
+[0m[ INFO] [1553243122.502852507]: image ID: 60; starting time: 1553243122.436692017; finishing time: 1553243122.502792611[0m
+[0m[ INFO] [1553243122.511772809]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.535380858]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.576551071]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.636206662]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243122.679201538]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.737589482]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.778128883]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243122.782023652]: DPU NetVLAD heard: [hello world 67][0m
+[0m[ INFO] [1553243122.848234857]: image ID: 67; starting time: 1553243122.782081508; finishing time: 1553243122.848177892[0m
+[0m[ INFO] [1553243122.858140137]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243122.881205872]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243122.925003288]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243122.978337557]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.018989049]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.083405155]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.124243475]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243123.128028604]: DPU NetVLAD heard: [hello world 74][0m
+[0m[ INFO] [1553243123.194254261]: image ID: 74; starting time: 1553243123.128092660; finishing time: 1553243123.194192414[0m
+[0m[ INFO] [1553243123.204748599]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.227754158]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243123.292391576]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.331687072]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.389312720]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.429016587]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243123.484886859]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243123.490697660]: DPU NetVLAD heard: [hello world 81][0m
+[0m[ INFO] [1553243123.556927857]: image ID: 81; starting time: 1553243123.490757806; finishing time: 1553243123.556860150[0m
+[0m[ INFO] [1553243123.575984881]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.632008189]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243123.673952100]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.732967616]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.772146301]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.832790860]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.871814149]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243123.876768474]: DPU NetVLAD heard: [hello world 89][0m
+[0m[ INFO] [1553243123.942991441]: image ID: 89; starting time: 1553243123.876830980; finishing time: 1553243123.942931555[0m
+[0m[ INFO] [1553243123.958870607]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243123.979130322]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243124.041416665]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.080398810]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.138537978]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.179604371]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.238165162]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243124.278348447]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243124.282462708]: DPU NetVLAD heard: [hello world 97][0m
+[0m[ INFO] [1553243124.348678764]: image ID: 97; starting time: 1553243124.282524464; finishing time: 1553243124.348618298[0m
+[0m[ INFO] [1553243124.359773352]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.381325296]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.424095189]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.479500115]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.525276658]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.581093465]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.623766629]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243124.630313253]: DPU NetVLAD heard: [hello world 104][0m
+[0m[ INFO] [1553243124.696533919]: image ID: 104; starting time: 1553243124.630371028; finishing time: 1553243124.696472143[0m
+[0m[ INFO] [1553243124.710124807]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.730312184]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243124.791501157]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.836392803]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.890620651]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243124.931523087]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243124.989893689]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243124.993842254]: DPU NetVLAD heard: [hello world 111][0m
+[0m[ INFO] [1553243125.060049248]: image ID: 111; starting time: 1553243124.993902640; finishing time: 1553243125.059995953[0m
+[0m[ INFO] [1553243125.078766458]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.134634080]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.173294352]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.236514409]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243125.272354389]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.333337442]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243125.376219076]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243125.380515836]: DPU NetVLAD heard: [hello world 119][0m
+[0m[ INFO] [1553243125.446739612]: image ID: 119; starting time: 1553243125.380577462; finishing time: 1553243125.446681816[0m
+[0m[ INFO] [1553243125.463188025]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.481577383]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.541858205]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.581406326]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.645161356]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.682869754]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.741033015]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243125.744972138]: DPU NetVLAD heard: [hello world 126][0m
+[0m[ INFO] [1553243125.811172182]: image ID: 126; starting time: 1553243125.745031424; finishing time: 1553243125.811123427[0m
+[0m[ INFO] [1553243125.828156699]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.888022000]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243125.928633298]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243125.983181577]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.029971632]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.087853455]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.131749260]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243126.135969832]: DPU NetVLAD heard: [hello world 134][0m
+[0m[ INFO] [1553243126.202200219]: image ID: 134; starting time: 1553243126.136032698; finishing time: 1553243126.202138923[0m
+[0m[ INFO] [1553243126.215669364]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.236936589]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243126.281430304]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.338480374]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.381601252]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.436913658]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243126.477381431]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243126.481602073]: DPU NetVLAD heard: [hello world 141][0m
+[0m[ INFO] [1553243126.547807027]: image ID: 141; starting time: 1553243126.481656638; finishing time: 1553243126.547752011[0m
+[0m[ INFO] [1553243126.565298714]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.582926335]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.627581397]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.683426116]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.727672216]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.784032137]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.824784498]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243126.830822342]: DPU NetVLAD heard: [hello world 148][0m
+[0m[ INFO] [1553243126.897055069]: image ID: 148; starting time: 1553243126.830888308; finishing time: 1553243126.896989752[0m
+[0m[ INFO] [1553243126.917276219]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.932695569]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243126.988162991]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243127.027917813]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243127.088127158]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243127.127889000]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 6; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243127.188271862]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.227982320]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 8; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.288226058]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 9; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.332216793]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 9; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243127.396779493]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.434484360]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 7; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243127.493808636]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 5; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243127.537591660]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.592187555]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243127.630818924]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.636089480]: DPU NetVLAD heard: [hello world 164][0m
+[0m[ INFO] [1553243127.702335819]: image ID: 164; starting time: 1553243127.636155577; finishing time: 1553243127.702254941[0m
+[0m[ INFO] [1553243127.716825776]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243127.738821654]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243127.777456423]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.839175139]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243127.843105852]: DPU NetVLAD heard: [hello world 168][0m
+[0m[ INFO] [1553243127.909327798]: image ID: 168; starting time: 1553243127.843166128; finishing time: 1553243127.909266602[0m
+[0m[ INFO] [1553243127.922901454]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243127.986632951]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.024403924]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.084293327]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.126736157]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.180730001]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.226474681]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243128.230671490]: DPU NetVLAD heard: [hello world 176][0m
+[0m[ INFO] [1553243128.296902006]: image ID: 176; starting time: 1553243128.230736037; finishing time: 1553243128.296838740[0m
+[0m[ INFO] [1553243128.309457321]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.329913414]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243128.374024091]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.431961059]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243128.469410760]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.531460069]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.573378646]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243128.575810959]: DPU NetVLAD heard: [hello world 183][0m
+[0m[ INFO] [1553243128.642137885]: image ID: 183; starting time: 1553243128.575865235; finishing time: 1553243128.642086660[0m
+[0m[ INFO] [1553243128.652036484]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.674786077]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243128.737589131]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243128.776385957]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.836082170]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243128.876352103]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243128.936370659]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243128.939904042]: DPU NetVLAD heard: [hello world 190][0m
+[0m[ INFO] [1553243129.006126038]: image ID: 190; starting time: 1553243128.939965348; finishing time: 1553243129.006064321[0m
+[0m[ INFO] [1553243129.022793133]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.043450836]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.083402887]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.125442167]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.181141221]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.241725743]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.280023409]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243129.283932199]: DPU NetVLAD heard: [hello world 197][0m
+[0m[ INFO] [1553243129.350208810]: image ID: 197; starting time: 1553243129.284044231; finishing time: 1553243129.350149404[0m
+[0m[ INFO] [1553243129.362169855]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.382221218]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.424125494]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.483335849]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.523145226]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.585228428]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.624769628]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243129.631307161]: DPU NetVLAD heard: [hello world 204][0m
+[0m[ INFO] [1553243129.697530056]: image ID: 204; starting time: 1553243129.631372087; finishing time: 1553243129.697473381[0m
+[0m[ INFO] [1553243129.708517644]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.735168966]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243129.776565342]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.834399159]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243129.869357331]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243129.931362355]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243129.975131268]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243129.979774502]: DPU NetVLAD heard: [hello world 211][0m
+[0m[ INFO] [1553243130.046055973]: image ID: 211; starting time: 1553243129.979895894; finishing time: 1553243130.045995427[0m
+[0m[ INFO] [1553243130.059070073]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.079930897]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.140384855]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243130.178384651]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.239200586]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243130.279953317]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.340522218]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243130.345460111]: DPU NetVLAD heard: [hello world 218][0m
+[0m[ INFO] [1553243130.411674505]: image ID: 218; starting time: 1553243130.345522737; finishing time: 1553243130.411615870[0m
+[0m[ INFO] [1553243130.426896626]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.486942714]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.527749591]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.586328092]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243130.631192854]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.687967345]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.729572661]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243130.782330191]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243130.784549513]: DPU NetVLAD heard: [hello world 227][0m
+[0m[ INFO] [1553243130.850757457]: image ID: 227; starting time: 1553243130.784603579; finishing time: 1553243130.850702391[0m
+[0m[ INFO] [1553243130.863628963]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.883147592]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243130.925558229]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243130.984491336]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.023546027]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.083893125]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.128186550]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243131.134581389]: DPU NetVLAD heard: [hello world 234][0m
+[0m[ INFO] [1553243131.200808874]: image ID: 234; starting time: 1553243131.134645055; finishing time: 1553243131.200746208[0m
+[0m[ INFO] [1553243131.211869629]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.233881278]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243131.275049980]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.335447583]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.373947409]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.434799547]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243131.476352398]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243131.479912724]: DPU NetVLAD heard: [hello world 241][0m
+[0m[ INFO] [1553243131.546128338]: image ID: 241; starting time: 1553243131.479971010; finishing time: 1553243131.546067542[0m
+[0m[ INFO] [1553243131.560292603]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.579925204]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.641004095]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.679501371]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.738362200]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243131.778767996]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.837162870]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243131.881068865]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243131.885778996]: DPU NetVLAD heard: [hello world 249][0m
+[0m[ INFO] [1553243131.951996780]: image ID: 249; starting time: 1553243131.885840862; finishing time: 1553243131.951937464[0m
+[0m[ INFO] [1553243131.967635192]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243131.990947761]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.026128635]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.083631059]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.125290980]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.186405435]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.226707460]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243132.229471727]: DPU NetVLAD heard: [hello world 256][0m
+[0m[ INFO] [1553243132.295692901]: image ID: 256; starting time: 1553243132.229532863; finishing time: 1553243132.295633075[0m
+[0m[ INFO] [1553243132.311872017]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.332662584]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.391155847]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.432504437]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.491145204]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.532629858]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243132.589474726]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243132.594405459]: DPU NetVLAD heard: [hello world 263][0m
+[0m[ INFO] [1553243132.660609582]: image ID: 263; starting time: 1553243132.594460324; finishing time: 1553243132.660558237[0m
+[0m[ INFO] [1553243132.671613061]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.732790352]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243132.774101638]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.833130934]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243132.875074754]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.935089739]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243132.972053701]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243132.976445380]: DPU NetVLAD heard: [hello world 271][0m
+[0m[ INFO] [1553243133.042669474]: image ID: 271; starting time: 1553243132.976506806; finishing time: 1553243133.042608208[0m
+[0m[ INFO] [1553243133.053952291]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.080792042]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.135312078]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243133.177693171]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.237447330]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.278627423]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.335282902]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243133.381800138]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243133.387641962]: DPU NetVLAD heard: [hello world 279][0m
+[0m[ INFO] [1553243133.453849445]: image ID: 279; starting time: 1553243133.387695877; finishing time: 1553243133.453795499[0m
+[0m[ INFO] [1553243133.464238242]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.488556251]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243133.528481379]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243133.588065941]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.630060335]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.689546887]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.728187977]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243133.731771745]: DPU NetVLAD heard: [hello world 286][0m
+[0m[ INFO] [1553243133.798002940]: image ID: 286; starting time: 1553243133.731836331; finishing time: 1553243133.797941594[0m
+[0m[ INFO] [1553243133.812045193]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.831755411]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243133.873103791]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.933351349]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243133.973012921]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.033225825]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.072453703]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243134.076602707]: DPU NetVLAD heard: [hello world 293][0m
+[0m[ INFO] [1553243134.142819341]: image ID: 293; starting time: 1553243134.076660333; finishing time: 1553243134.142760475[0m
+[0m[ INFO] [1553243134.151467595]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.175338679]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243134.237278576]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243134.271803914]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.333709398]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243134.376086430]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.436267671]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243134.472992239]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243134.477341594]: DPU NetVLAD heard: [hello world 301][0m
+[0m[ INFO] [1553243134.543559087]: image ID: 301; starting time: 1553243134.477398879; finishing time: 1553243134.543497551[0m
+[0m[ INFO] [1553243134.552470618]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.576479336]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243134.637457876]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243134.674899566]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.735702089]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243134.778021756]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.838650901]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243134.844480494]: DPU NetVLAD heard: [hello world 308][0m
+[0m[ INFO] [1553243134.910690617]: image ID: 308; starting time: 1553243134.844544650; finishing time: 1553243134.910637422[0m
+[0m[ INFO] [1553243134.928351341]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243134.986569576]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.029024986]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.088373434]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.126562758]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.182872742]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.228857865]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243135.238463024]: DPU NetVLAD heard: [hello world 316][0m
+[0m[ INFO] [1553243135.304693459]: image ID: 316; starting time: 1553243135.238527951; finishing time: 1553243135.304629943[0m
+[0m[ INFO] [1553243135.318071175]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.337204846]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243135.380685479]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.437947848]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243135.477787748]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.537548226]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243135.577088265]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243135.580958582]: DPU NetVLAD heard: [hello world 323][0m
+[0m[ INFO] [1553243135.647180496]: image ID: 323; starting time: 1553243135.581019538; finishing time: 1553243135.647121960[0m
+[0m[ INFO] [1553243135.656873344]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.679566981]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.739246291]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243135.781108203]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.838523337]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.880638093]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243135.938567729]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243135.978534521]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243135.982429720]: DPU NetVLAD heard: [hello world 331][0m
+[0m[ INFO] [1553243136.048648064]: image ID: 331; starting time: 1553243135.982488306; finishing time: 1553243136.048588698[0m
+[0m[ INFO] [1553243136.060335841]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.081072082]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.140591987]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243136.181778160]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.239181753]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243136.282683068]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.339525845]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243136.380977065]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243136.384400667]: DPU NetVLAD heard: [hello world 339][0m
+[0m[ INFO] [1553243136.450609479]: image ID: 339; starting time: 1553243136.384456452; finishing time: 1553243136.450552094[0m
+[0m[ INFO] [1553243136.459354113]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.482811716]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243136.526744563]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.587008452]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.626972074]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.684403259]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.728924796]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243136.732762729]: DPU NetVLAD heard: [hello world 346][0m
+[0m[ INFO] [1553243136.798985613]: image ID: 346; starting time: 1553243136.732821865; finishing time: 1553243136.798921527[0m
+[0m[ INFO] [1553243136.811586862]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.831978669]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243136.878430918]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243136.931633091]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243136.974767900]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.031919167]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243137.076455465]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243137.080661725]: DPU NetVLAD heard: [hello world 353][0m
+[0m[ INFO] [1553243137.146895390]: image ID: 353; starting time: 1553243137.080727952; finishing time: 1553243137.146833314[0m
+[0m[ INFO] [1553243137.161738733]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.182097176]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243137.226572198]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.285824775]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.325801458]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.382270778]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.426012506]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243137.429376812]: DPU NetVLAD heard: [hello world 360][0m
+[0m[ INFO] [1553243137.495605927]: image ID: 360; starting time: 1553243137.429440189; finishing time: 1553243137.495543260[0m
+[0m[ INFO] [1553243137.506513116]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.530131465]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243137.590841538]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.635061054]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.686528754]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.735809766]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.792092947]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243137.795540081]: DPU NetVLAD heard: [hello world 367][0m
+[0m[ INFO] [1553243137.861755445]: image ID: 367; starting time: 1553243137.795599927; finishing time: 1553243137.861695559[0m
+[0m[ INFO] [1553243137.876866164]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243137.937618841]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243137.976458650]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.037024729]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243138.078834144]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.137414395]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.176791037]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243138.180780846]: DPU NetVLAD heard: [hello world 375][0m
+[0m[ INFO] [1553243138.247006269]: image ID: 375; starting time: 1553243138.180841212; finishing time: 1553243138.246942353[0m
+[0m[ INFO] [1553243138.259289456]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.281023307]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243138.325337032]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.384712252]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.422535539]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.480784396]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.524385621]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243138.528471859]: DPU NetVLAD heard: [hello world 382][0m
+[0m[ INFO] [1553243138.594697563]: image ID: 382; starting time: 1553243138.528524254; finishing time: 1553243138.594628196[0m
+[0m[ INFO] [1553243138.608084200]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.632016010]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243138.691440014]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.732413686]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243138.787905058]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.836029684]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243138.892462350]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243138.895232237]: DPU NetVLAD heard: [hello world 389][0m
+[0m[ INFO] [1553243138.961726047]: image ID: 389; starting time: 1553243138.895283872; finishing time: 1553243138.961665971[0m
+[0m[ INFO] [1553243138.984711363]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.025632280]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.081712100]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.127223845]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.183773402]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.227382717]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.285282830]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243139.289449396]: DPU NetVLAD heard: [hello world 397][0m
+[0m[ INFO] [1553243139.355678750]: image ID: 397; starting time: 1553243139.289513652; finishing time: 1553243139.355617114[0m
+[0m[ INFO] [1553243139.371906570]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.435210462]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.474658842]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.533692937]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243139.569531026]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.631045989]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243139.673877597]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243139.677675726]: DPU NetVLAD heard: [hello world 405][0m
+[0m[ INFO] [1553243139.743900850]: image ID: 405; starting time: 1553243139.677738272; finishing time: 1553243139.743837853[0m
+[0m[ INFO] [1553243139.758767864]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.777451980]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.837818979]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.877957937]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.937078522]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243139.976153774]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.036564097]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243140.077959991]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243140.081964830]: DPU NetVLAD heard: [hello world 413][0m
+[0m[ INFO] [1553243140.148187374]: image ID: 413; starting time: 1553243140.082027107; finishing time: 1553243140.148125377[0m
+[0m[ INFO] [1553243140.164551138]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.182461566]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.221933768]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243140.278840591]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.325721123]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.381270180]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.423188826]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243140.430919908]: DPU NetVLAD heard: [hello world 420][0m
+[0m[ INFO] [1553243140.497144921]: image ID: 420; starting time: 1553243140.430984564; finishing time: 1553243140.497086996[0m
+[0m[ INFO] [1553243140.507150100]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.531199782]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243140.591941338]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243140.632460094]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243140.690493540]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243140.736000844]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.791759282]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243140.794076614]: DPU NetVLAD heard: [hello world 427][0m
+[0m[ INFO] [1553243140.860295496]: image ID: 427; starting time: 1553243140.794131849; finishing time: 1553243140.860235070[0m
+[0m[ INFO] [1553243140.872577943]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243140.937500866]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243140.972644186]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.034783881]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243141.077856472]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.135707709]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243141.178213914]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243141.181646687]: DPU NetVLAD heard: [hello world 435][0m
+[0m[ INFO] [1553243141.247876180]: image ID: 435; starting time: 1553243141.181711043; finishing time: 1553243141.247813344[0m
+[0m[ INFO] [1553243141.263775438]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.283311809]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.323925845]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.382758310]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.423851503]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.482864276]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.525362220]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243141.531236897]: DPU NetVLAD heard: [hello world 442][0m
+[0m[ INFO] [1553243141.597468320]: image ID: 442; starting time: 1553243141.531302883; finishing time: 1553243141.597404654[0m
+[0m[ INFO] [1553243141.610672279]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.632395578]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243141.671785452]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.733480553]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243141.772166136]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.832457996]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243141.875995934]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243141.879443218]: DPU NetVLAD heard: [hello world 449][0m
+[0m[ INFO] [1553243141.945667951]: image ID: 449; starting time: 1553243141.879505535; finishing time: 1553243141.945607175[0m
+[0m[ INFO] [1553243141.968410132]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243141.979075407]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.037259148]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.077257402]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.137224260]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.177221704]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.237240727]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.277243071]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.342013079]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 9; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243142.386372669]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 8; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.441627456]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 6; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.480689617]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 5; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243142.544634522]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.583151058]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.641086664]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243142.682129552]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.685679246]: DPU NetVLAD heard: [hello world 465][0m
+[0m[ INFO] [1553243142.751930642]: image ID: 465; starting time: 1553243142.685744173; finishing time: 1553243142.751857675[0m
+[0m[ INFO] [1553243142.777060941]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.790664500]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243142.793354198]: DPU NetVLAD heard: [hello world 467][0m
+[0m[ INFO] [1553243142.859570791]: image ID: 467; starting time: 1553243142.793413334; finishing time: 1553243142.859513905[0m
+[0m[ INFO] [1553243142.872472409]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.934027786]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243142.975162573]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.030746894]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243143.073719454]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.133098754]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.174059804]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243143.179051382]: DPU NetVLAD heard: [hello world 475][0m
+[0m[ INFO] [1553243143.245271845]: image ID: 475; starting time: 1553243143.179109348; finishing time: 1553243143.245210878[0m
+[0m[ INFO] [1553243143.257011367]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.278801173]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243143.343112674]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.378609229]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.440810410]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.480515394]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.541279552]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243143.575722981]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243143.579987587]: DPU NetVLAD heard: [hello world 483][0m
+[0m[ INFO] [1553243143.646204199]: image ID: 483; starting time: 1553243143.580048023; finishing time: 1553243143.646148563[0m
+[0m[ INFO] [1553243143.655167654]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.678799204]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243143.739959781]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243143.776506650]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.838536664]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243143.881453839]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243143.940533619]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243143.942879893]: DPU NetVLAD heard: [hello world 490][0m
+[0m[ INFO] [1553243144.009100845]: image ID: 490; starting time: 1553243143.942937669; finishing time: 1553243144.009041079[0m
+[0m[ INFO] [1553243144.022005464]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.090018145]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.127664144]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.186983707]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.223903603]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.287216785]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.326970515]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243144.330886406]: DPU NetVLAD heard: [hello world 498][0m
+[0m[ INFO] [1553243144.397102357]: image ID: 498; starting time: 1553243144.330946782; finishing time: 1553243144.397044352[0m
+[0m[ INFO] [1553243144.409195305]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.430915294]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.490256139]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.534626089]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.591564174]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.629781100]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243144.688510224]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243144.733607717]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243144.736048601]: DPU NetVLAD heard: [hello world 506][0m
+[0m[ INFO] [1553243144.802257282]: image ID: 506; starting time: 1553243144.736106667; finishing time: 1553243144.802202767[0m
+[0m[ INFO] [1553243144.811202645]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.834131215]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243144.879561891]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243144.934224219]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243144.971486390]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.034239756]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243145.073128199]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243145.075593395]: DPU NetVLAD heard: [hello world 513][0m
+[0m[ INFO] [1553243145.141799935]: image ID: 513; starting time: 1553243145.075649120; finishing time: 1553243145.141747150[0m
+[0m[ INFO] [1553243145.152114875]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.173235414]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243145.237829914]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243145.274324937]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.335771683]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243145.378514130]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.435961086]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243145.472416686]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243145.477983642]: DPU NetVLAD heard: [hello world 521][0m
+[0m[ INFO] [1553243145.544200564]: image ID: 521; starting time: 1553243145.478044278; finishing time: 1553243145.544142378[0m
+[0m[ INFO] [1553243145.554593982]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.579648903]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.637918981]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243145.673860450]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.736396784]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243145.779056613]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.838392868]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243145.842563985]: DPU NetVLAD heard: [hello world 528][0m
+[0m[ INFO] [1553243145.908783916]: image ID: 528; starting time: 1553243145.842624891; finishing time: 1553243145.908725091[0m
+[0m[ INFO] [1553243145.923700276]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243145.983818118]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.025073137]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.086406911]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.123742799]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.185866082]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.222881217]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243146.229625951]: DPU NetVLAD heard: [hello world 536][0m
+[0m[ INFO] [1553243146.295854263]: image ID: 536; starting time: 1553243146.229689187; finishing time: 1553243146.295790977[0m
+[0m[ INFO] [1553243146.311000006]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.330986651]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243146.391613654]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.433299166]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.489963684]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.532574349]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.595065638]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243146.598596660]: DPU NetVLAD heard: [hello world 543][0m
+[0m[ INFO] [1553243146.664816462]: image ID: 543; starting time: 1553243146.598661077; finishing time: 1553243146.664755906[0m
+[0m[ INFO] [1553243146.677574516]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.741386967]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243146.778623945]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.841239557]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243146.885741810]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.942339431]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243146.979690170]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243146.983877479]: DPU NetVLAD heard: [hello world 551][0m
+[0m[ INFO] [1553243147.050101991]: image ID: 551; starting time: 1553243146.983937715; finishing time: 1553243147.050040444[0m
+[0m[ INFO] [1553243147.063203129]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.083591484]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.127518680]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.182268976]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.227369639]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.283010484]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.330239350]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243147.333283294]: DPU NetVLAD heard: [hello world 558][0m
+[0m[ INFO] [1553243147.399500935]: image ID: 558; starting time: 1553243147.333340439; finishing time: 1553243147.399441439[0m
+[0m[ INFO] [1553243147.408388652]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.433801650]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243147.478124405]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.533706464]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243147.572672805]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.631333291]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243147.675235505]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243147.679168927]: DPU NetVLAD heard: [hello world 565][0m
+[0m[ INFO] [1553243147.745406631]: image ID: 565; starting time: 1553243147.679228663; finishing time: 1553243147.745339074[0m
+[0m[ INFO] [1553243147.760410679]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.777949310]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243147.839807816]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.879415350]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243147.937381538]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243147.975872411]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.037868520]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243148.081129579]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243148.087489334]: DPU NetVLAD heard: [hello world 573][0m
+[0m[ INFO] [1553243148.153704765]: image ID: 573; starting time: 1553243148.087544780; finishing time: 1553243148.153647899[0m
+[0m[ INFO] [1553243148.169328935]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.193183487]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.229232156]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243148.285546778]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.331622858]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243148.383616659]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.432408900]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243148.435797969]: DPU NetVLAD heard: [hello world 580][0m
+[0m[ INFO] [1553243148.502028671]: image ID: 580; starting time: 1553243148.435860555; finishing time: 1553243148.501965425[0m
+[0m[ INFO] [1553243148.516994545]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.536179691]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.584772662]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.637049701]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.676504130]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.738260976]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.776174121]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243148.779597073]: DPU NetVLAD heard: [hello world 587][0m
+[0m[ INFO] [1553243148.845810764]: image ID: 587; starting time: 1553243148.779650308; finishing time: 1553243148.845751718[0m
+[0m[ INFO] [1553243148.861345845]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.881108218]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243148.946481164]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243148.983342875]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.043153916]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.082905855]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.139301985]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243149.180959274]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243149.184840821]: DPU NetVLAD heard: [hello world 595][0m
+[0m[ INFO] [1553243149.251058722]: image ID: 595; starting time: 1553243149.184897117; finishing time: 1553243149.250999126[0m
+[0m[ INFO] [1553243149.262097564]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.284419203]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.328246948]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.385230907]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.429232370]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.485733821]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.527896530]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243149.531185199]: DPU NetVLAD heard: [hello world 602][0m
+[0m[ INFO] [1553243149.597407510]: image ID: 602; starting time: 1553243149.531246145; finishing time: 1553243149.597346244[0m
+[0m[ INFO] [1553243149.608368244]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.631336197]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243149.694519685]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.736437010]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.792059723]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243149.832026163]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243149.886648076]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243149.890670128]: DPU NetVLAD heard: [hello world 609][0m
+[0m[ INFO] [1553243149.956895399]: image ID: 609; starting time: 1553243149.890729964; finishing time: 1553243149.956833673[0m
+[0m[ INFO] [1553243149.975439591]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.031167584]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.071186179]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.131058287]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.171304855]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 6; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.231151739]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.271320609]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 8; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.337387825]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 9; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.378243434]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 9; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.434230693]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 9; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243150.482376209]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.534214915]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 7; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243150.578531469]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.631739061]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 5; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243150.679528722]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.734538743]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.774022695]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243150.834160499]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243150.873846101]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243150.887641078]: DPU NetVLAD heard: [hello world 629][0m
+[0m[ INFO] [1553243150.953862179]: image ID: 629; starting time: 1553243150.887704564; finishing time: 1553243150.953804693[0m
+[0m[ INFO] [1553243150.972437663]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243150.988410288]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243151.030947314]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.089576187]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.128653548]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.189975280]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.229049331]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243151.286159172]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243151.291283704]: DPU NetVLAD heard: [hello world 637][0m
+[0m[ INFO] [1553243151.357493853]: image ID: 637; starting time: 1553243151.291343740; finishing time: 1553243151.357439188[0m
+[0m[ INFO] [1553243151.375467048]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.388571186]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243151.433040785]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243151.490648186]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243151.534838928]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.591453799]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.631474925]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243151.690556523]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243151.732646414]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243151.735086168]: DPU NetVLAD heard: [hello world 646][0m
+[0m[ INFO] [1553243151.801293837]: image ID: 646; starting time: 1553243151.735140153; finishing time: 1553243151.801237452[0m
+[0m[ INFO] [1553243151.814807777]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.834826285]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243151.877488944]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243151.881057530]: DPU NetVLAD heard: [hello world 649][0m
+[0m[ INFO] [1553243151.947273891]: image ID: 649; starting time: 1553243151.881110295; finishing time: 1553243151.947212854[0m
+[0m[ INFO] [1553243151.958241765]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243151.981427180]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243152.022893560]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.080624123]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.122898503]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.183179630]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.223614107]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243152.226729388]: DPU NetVLAD heard: [hello world 656][0m
+[0m[ INFO] [1553243152.292943718]: image ID: 656; starting time: 1553243152.226790734; finishing time: 1553243152.292889002[0m
+[0m[ INFO] [1553243152.305838775]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.326565344]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.387191206]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243152.423500481]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.485607220]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.528144507]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.586941676]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243152.593538455]: DPU NetVLAD heard: [hello world 663][0m
+[0m[ INFO] [1553243152.659751865]: image ID: 663; starting time: 1553243152.593592410; finishing time: 1553243152.659693199[0m
+[0m[ INFO] [1553243152.672269764]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.734869763]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243152.774712541]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.834497579]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.874107693]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.936492641]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243152.981493553]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243152.985457189]: DPU NetVLAD heard: [hello world 671][0m
+[0m[ INFO] [1553243153.051674629]: image ID: 671; starting time: 1553243152.985512434; finishing time: 1553243153.051614553[0m
+[0m[ INFO] [1553243153.062733423]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.086087704]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243153.127627171]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243153.186640701]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.230776907]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.286799160]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.328098402]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243153.330569879]: DPU NetVLAD heard: [hello world 678][0m
+[0m[ INFO] [1553243153.396779998]: image ID: 678; starting time: 1553243153.330625915; finishing time: 1553243153.396723653[0m
+[0m[ INFO] [1553243153.405733642]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.430927727]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243153.487967961]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.532648051]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.592335379]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.629702939]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243153.686971966]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243153.692958264]: DPU NetVLAD heard: [hello world 685][0m
+[0m[ INFO] [1553243153.759174724]: image ID: 685; starting time: 1553243153.693018880; finishing time: 1553243153.759118608[0m
+[0m[ INFO] [1553243153.771400164]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.832237197]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243153.869484685]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243153.931576413]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243153.973522841]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.033302618]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.070215963]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243154.074424173]: DPU NetVLAD heard: [hello world 693][0m
+[0m[ INFO] [1553243154.140640742]: image ID: 693; starting time: 1553243154.074486509; finishing time: 1553243154.140584637[0m
+[0m[ INFO] [1553243154.149536490]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.176158638]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243154.233790721]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243154.271672002]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.334477071]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243154.375528949]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.433588124]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243154.437700535]: DPU NetVLAD heard: [hello world 700][0m
+[0m[ INFO] [1553243154.503912804]: image ID: 700; starting time: 1553243154.437752430; finishing time: 1553243154.503851378[0m
+[0m[ INFO] [1553243154.521983108]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.537582735]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.581795289]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.639667945]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.681191000]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.739371398]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.779125026]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243154.783330276]: DPU NetVLAD heard: [hello world 707][0m
+[0m[ INFO] [1553243154.849552536]: image ID: 707; starting time: 1553243154.783383811; finishing time: 1553243154.849490050[0m
+[0m[ INFO] [1553243154.867371235]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.884591384]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.926709698]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243154.984316568]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.027117911]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.084827421]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.125475738]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.129418442]: DPU NetVLAD heard: [hello world 714][0m
+[0m[ INFO] [1553243155.195635002]: image ID: 714; starting time: 1553243155.129483188; finishing time: 1553243155.195583146[0m
+[0m[ INFO] [1553243155.206386635]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.232938895]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243155.286155277]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.326130427]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.386196863]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.426133979]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243155.486145470]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 6; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.526129701]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.585964093]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 8; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.629972016]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 9; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243155.691477765]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 7; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243155.731591359]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 6; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.793050234]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.837581419]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.892941585]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243155.933650868]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243155.996147047]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243156.000539515]: DPU NetVLAD heard: [hello world 731][0m
+[0m[ INFO] [1553243156.066743653]: image ID: 731; starting time: 1553243156.000595471; finishing time: 1553243156.066691528[0m
+[0m[ INFO] [1553243156.085655051]: depth_cpu_NetVLAD: 0; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.140253580]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243156.178164314]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243156.182399247]: DPU NetVLAD heard: [hello world 735][0m
+[0m[ INFO] [1553243156.248624557]: image ID: 735; starting time: 1553243156.182458833; finishing time: 1553243156.248562021[0m
+[0m[ INFO] [1553243156.258544248]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.280717621]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.340666915]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243156.382712931]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.426142626]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.477917844]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.544509341]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243156.548273867]: DPU NetVLAD heard: [hello world 742][0m
+[0m[ INFO] [1553243156.614496457]: image ID: 742; starting time: 1553243156.548338093; finishing time: 1553243156.614434680[0m
+[0m[ INFO] [1553243156.626463491]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.690501103]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243156.726467893]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.786951160]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243156.828123310]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.887005087]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243156.931587697]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243156.934993917]: DPU NetVLAD heard: [hello world 750][0m
+[0m[ INFO] [1553243157.001218947]: image ID: 750; starting time: 1553243156.935056273; finishing time: 1553243157.001156801[0m
+[0m[ INFO] [1553243157.012075971]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.033498119]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243157.076647436]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.135530303]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.174327075]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.234160607]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243157.275729996]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243157.279782101]: DPU NetVLAD heard: [hello world 757][0m
+[0m[ INFO] [1553243157.345996020]: image ID: 757; starting time: 1553243157.279834346; finishing time: 1553243157.345934404[0m
+[0m[ INFO] [1553243157.363452722]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.380144898]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.440075150]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.479984323]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.541412025]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.582384334]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.638405966]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243157.680201257]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243157.683508757]: DPU NetVLAD heard: [hello world 765][0m
+[0m[ INFO] [1553243157.749769831]: image ID: 765; starting time: 1553243157.683568713; finishing time: 1553243157.749697584[0m
+[0m[ INFO] [1553243157.766239555]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.783237571]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243157.824732253]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.883561205]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.926957216]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243157.984525592]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.024868879]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243158.028763748]: DPU NetVLAD heard: [hello world 772][0m
+[0m[ INFO] [1553243158.094980057]: image ID: 772; starting time: 1553243158.028829584; finishing time: 1553243158.094923361[0m
+[0m[ INFO] [1553243158.104524189]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.130308933]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243158.186646796]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.232622724]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243158.288289410]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.333741117]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.389955828]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243158.392258918]: DPU NetVLAD heard: [hello world 779][0m
+[0m[ INFO] [1553243158.458462905]: image ID: 779; starting time: 1553243158.392313613; finishing time: 1553243158.458412110[0m
+[0m[ INFO] [1553243158.470779915]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.533611006]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243158.569419300]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.632851511]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243158.674475285]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.734899636]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243158.770687208]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243158.776131201]: DPU NetVLAD heard: [hello world 787][0m
+[0m[ INFO] [1553243158.842337529]: image ID: 787; starting time: 1553243158.776184617; finishing time: 1553243158.842287724[0m
+[0m[ INFO] [1553243158.854858479]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.878409409]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.940454732]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243158.977486578]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.033690398]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243159.078969627]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.134851844]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243159.138214790]: DPU NetVLAD heard: [hello world 794][0m
+[0m[ INFO] [1553243159.204408076]: image ID: 794; starting time: 1553243159.138263565; finishing time: 1553243159.204358671[0m
+[0m[ INFO] [1553243159.215825206]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.236912450]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243159.278808322]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.337707900]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.380514093]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.439631343]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243159.477840896]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243159.481032575]: DPU NetVLAD heard: [hello world 801][0m
+[0m[ INFO] [1553243159.547246243]: image ID: 801; starting time: 1553243159.481089761; finishing time: 1553243159.547185017[0m
+[0m[ INFO] [1553243159.556292936]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.579946357]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243159.641286249]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.679664369]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.741484309]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.781859609]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.839876940]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243159.877082693]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243159.880994143]: DPU NetVLAD heard: [hello world 809][0m
+[0m[ INFO] [1553243159.947211002]: image ID: 809; starting time: 1553243159.881052239; finishing time: 1553243159.947151116[0m
+[0m[ INFO] [1553243159.956116821]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243159.981931697]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.041931235]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243160.079448910]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.139981511]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.182494484]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.241161429]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243160.246861548]: DPU NetVLAD heard: [hello world 816][0m
+[0m[ INFO] [1553243160.313082997]: image ID: 816; starting time: 1553243160.246925844; finishing time: 1553243160.313024651[0m
+[0m[ INFO] [1553243160.327936620]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.387378552]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243160.431487974]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243160.484540439]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.532246760]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.590347079]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.630415558]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243160.684600676]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243160.689492194]: DPU NetVLAD heard: [hello world 825][0m
+[0m[ INFO] [1553243160.755707882]: image ID: 825; starting time: 1553243160.689553610; finishing time: 1553243160.755649766[0m
+[0m[ INFO] [1553243160.765800759]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.794024806]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.830419149]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243160.888229698]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.933102707]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243160.993650910]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.034440950]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243161.036907767]: DPU NetVLAD heard: [hello world 832][0m
+[0m[ INFO] [1553243161.103123525]: image ID: 832; starting time: 1553243161.036966152; finishing time: 1553243161.103063649[0m
+[0m[ INFO] [1553243161.113240815]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.136088145]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243161.179971504]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.236673103]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243161.272544683]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.338171313]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.375933291]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243161.379706868]: DPU NetVLAD heard: [hello world 839][0m
+[0m[ INFO] [1553243161.445913845]: image ID: 839; starting time: 1553243161.379762843; finishing time: 1553243161.445862050[0m
+[0m[ INFO] [1553243161.456319724]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.480284585]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243161.542622037]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.579319779]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.642568941]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.684752751]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.742633478]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243161.749154068]: DPU NetVLAD heard: [hello world 846][0m
+[0m[ INFO] [1553243161.815371077]: image ID: 846; starting time: 1553243161.749223145; finishing time: 1553243161.815316621[0m
+[0m[ INFO] [1553243161.827238331]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.894083132]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.928140091]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243161.992609105]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.031731569]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.089192964]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.134112897]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243162.136514316]: DPU NetVLAD heard: [hello world 854][0m
+[0m[ INFO] [1553243162.202728604]: image ID: 854; starting time: 1553243162.136571212; finishing time: 1553243162.202669949[0m
+[0m[ INFO] [1553243162.212512181]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.235494684]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.280986114]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.334643739]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.372913588]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.450169598]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.473882855]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243162.477351681]: DPU NetVLAD heard: [hello world 861][0m
+[0m[ INFO] [1553243162.543577610]: image ID: 861; starting time: 1553243162.477410397; finishing time: 1553243162.543520274[0m
+[0m[ INFO] [1553243162.552497870]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.576030799]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.637780901]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243162.676428298]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.739560828]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.776865591]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.837103523]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243162.840620154]: DPU NetVLAD heard: [hello world 868][0m
+[0m[ INFO] [1553243162.906847853]: image ID: 868; starting time: 1553243162.840682420; finishing time: 1553243162.906785717[0m
+[0m[ INFO] [1553243162.919148461]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243162.985172280]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.027150619]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.084059268]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.123047259]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.180991891]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.223226126]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243163.229030895]: DPU NetVLAD heard: [hello world 876][0m
+[0m[ INFO] [1553243163.295257874]: image ID: 876; starting time: 1553243163.229097292; finishing time: 1553243163.295197078[0m
+[0m[ INFO] [1553243163.312562791]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.330475939]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.386479648]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.431196860]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.489512260]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.531002480]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243163.585253564]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243163.588333902]: DPU NetVLAD heard: [hello world 883][0m
+[0m[ INFO] [1553243163.654613776]: image ID: 883; starting time: 1553243163.588393878; finishing time: 1553243163.654554760[0m
+[0m[ INFO] [1553243163.663927215]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.690503097]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243163.730571356]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243163.787649002]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.834175255]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.888268533]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243163.925344383]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243163.927978896]: DPU NetVLAD heard: [hello world 890][0m
+[0m[ INFO] [1553243163.994197574]: image ID: 890; starting time: 1553243163.928038892; finishing time: 1553243163.994139338[0m
+[0m[ INFO] [1553243164.010027884]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.030956432]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.088005435]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.130468653]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.189764280]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.229797565]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243164.284437287]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243164.287542237]: DPU NetVLAD heard: [hello world 897][0m
+[0m[ INFO] [1553243164.353761045]: image ID: 897; starting time: 1553243164.287603143; finishing time: 1553243164.353704320[0m
+[0m[ INFO] [1553243164.362754073]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.384668060]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243164.428444988]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243164.486174049]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.531471779]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.587396620]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.627861588]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243164.631034995]: DPU NetVLAD heard: [hello world 904][0m
+[0m[ INFO] [1553243164.697259243]: image ID: 904; starting time: 1553243164.631099071; finishing time: 1553243164.697199037[0m
+[0m[ INFO] [1553243164.707819687]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.729907761]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 2; running_dpu_VO: 1; recent_doing: 1[0m
+[0m[ INFO] [1553243164.776460517]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.831664836]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.874728823]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.934576405]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243164.971291169]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 0; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243164.977081167]: DPU NetVLAD heard: [hello world 911][0m
+[0m[ INFO] [1553243165.043307196]: image ID: 911; starting time: 1553243164.977143783; finishing time: 1553243165.043244769[0m
+[0m[ INFO] [1553243165.058433795]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243165.078824330]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 1; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243165.133962952]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243165.173980765]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243165.233975782]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243165.273999826]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 1[0m
+[0m[ INFO] [1553243165.333966260]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.373972922]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.435734495]: depth_cpu_NetVLAD: 2; depth_dpu_VO: 9; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.478787471]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 8; running_dpu_VO: 1; recent_doing: 0[0m
+[0m[ INFO] [1553243165.542658575]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 7; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.577868738]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 6; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.639974906]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 5; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.680101920]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 4; running_dpu_VO: 0; recent_doing: 0[0m
+[0m[ INFO] [1553243165.741360433]: depth_cpu_NetVLAD: 1; depth_dpu_VO: 3; running_dpu_VO: 0; recent_doing: 0[0m
