@@ -1,288 +1,1310 @@
-[0m[ INFO] [1553243119.517768069]: Queue empty[0m
-[0m[ INFO] [1553243119.545216101]: Queue empty[0m
-[0m[ INFO] [1553243119.553341673]: Queue empty[0m
-[0m[ INFO] [1553243119.570105199]: Queue empty[0m
-[0m[ INFO] [1553243119.590016178]: Queue empty[0m
-[0m[ INFO] [1553243119.609999025]: Queue empty[0m
-[0m[ INFO] [1553243119.630637437]: Queue empty[0m
-[0m[ INFO] [1553243119.652151707]: Queue empty[0m
-[0m[ INFO] [1553243119.682622732]: Queue empty[0m
-[0m[ INFO] [1553243119.695091868]: Queue empty[0m
-[0m[ INFO] [1553243119.710105448]: Queue empty[0m
-[0m[ INFO] [1553243119.730200607]: Queue empty[0m
-[0m[ INFO] [1553243119.750886974]: Queue empty[0m
-[0m[ INFO] [1553243119.774679751]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 5][0m
-[0m[ INFO] [1553243120.135035040]: image ID: 5; starting time: 1553243119.774755839; finishing time: 1553243120.134978325[0m
-[0m[ INFO] [1553243120.154357351]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 7][0m
-[0m[ INFO] [1553243120.514637452]: image ID: 7; starting time: 1553243120.154425558; finishing time: 1553243120.514583397[0m
-[0m[ INFO] [1553243120.532676355]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 15][0m
-[0m[ INFO] [1553243120.892893239]: image ID: 15; starting time: 1553243120.532732580; finishing time: 1553243120.892835573[0m
-[0m[ INFO] [1553243120.906687548]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 22][0m
-[0m[ INFO] [1553243121.266928174]: image ID: 22; starting time: 1553243120.906756804; finishing time: 1553243121.266863407[0m
-[0m[ INFO] [1553243121.288845524]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 29][0m
-[0m[ INFO] [1553243121.649086679]: image ID: 29; starting time: 1553243121.288913270; finishing time: 1553243121.649019123[0m
-[0m[ INFO] [1553243121.667174397]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 37][0m
-[0m[ INFO] [1553243122.027455467]: image ID: 37; starting time: 1553243121.667242454; finishing time: 1553243122.027348706[0m
-[0m[ INFO] [1553243122.051040253]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 45][0m
-[0m[ INFO] [1553243122.411270137]: image ID: 45; starting time: 1553243122.051112460; finishing time: 1553243122.411213061[0m
-[0m[ INFO] [1553243122.443434721]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 53][0m
-[0m[ INFO] [1553243122.803655873]: image ID: 53; starting time: 1553243122.443493416; finishing time: 1553243122.803592937[0m
-[0m[ INFO] [1553243122.816874694]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 60][0m
-[0m[ INFO] [1553243123.177097436]: image ID: 60; starting time: 1553243122.816937170; finishing time: 1553243123.177040961[0m
-[0m[ INFO] [1553243123.184298246]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 67][0m
-[0m[ INFO] [1553243123.544513257]: image ID: 67; starting time: 1553243123.184359802; finishing time: 1553243123.544452611[0m
-[0m[ INFO] [1553243123.561636428]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 74][0m
-[0m[ INFO] [1553243123.921846118]: image ID: 74; starting time: 1553243123.561698274; finishing time: 1553243123.921792923[0m
-[0m[ INFO] [1553243123.937362868]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 81][0m
-[0m[ INFO] [1553243124.297592580]: image ID: 81; starting time: 1553243123.937426365; finishing time: 1553243124.297528323[0m
-[0m[ INFO] [1553243124.313039983]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 89][0m
-[0m[ INFO] [1553243124.673263714]: image ID: 89; starting time: 1553243124.313107990; finishing time: 1553243124.673206578[0m
-[0m[ INFO] [1553243124.689062212]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 97][0m
-[0m[ INFO] [1553243125.049291744]: image ID: 97; starting time: 1553243124.689127899; finishing time: 1553243125.049228257[0m
-[0m[ INFO] [1553243125.059440437]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 104][0m
-[0m[ INFO] [1553243125.419664957]: image ID: 104; starting time: 1553243125.059507014; finishing time: 1553243125.419604051[0m
-[0m[ INFO] [1553243125.439322001]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 111][0m
-[0m[ INFO] [1553243125.799603376]: image ID: 111; starting time: 1553243125.439455684; finishing time: 1553243125.799551041[0m
-[0m[ INFO] [1553243125.808320107]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 119][0m
-[0m[ INFO] [1553243126.168558268]: image ID: 119; starting time: 1553243125.808385694; finishing time: 1553243126.168492991[0m
-[0m[ INFO] [1553243126.177232914]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 126][0m
-[0m[ INFO] [1553243126.537458053]: image ID: 126; starting time: 1553243126.177294801; finishing time: 1553243126.537398297[0m
-[0m[ INFO] [1553243126.544587995]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 134][0m
-[0m[ INFO] [1553243126.904818654]: image ID: 134; starting time: 1553243126.544650651; finishing time: 1553243126.904754298[0m
-[0m[ INFO] [1553243126.928609461]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 141][0m
-[0m[ INFO] [1553243127.288830068]: image ID: 141; starting time: 1553243126.928679658; finishing time: 1553243127.288776253[0m
-[0m[ INFO] [1553243127.301425597]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 148][0m
-[0m[ INFO] [1553243127.661647904]: image ID: 148; starting time: 1553243127.301490533; finishing time: 1553243127.661586468[0m
-[0m[ INFO] [1553243127.673449423]: Queue empty[0m
-[0m[ INFO] [1553243127.678594467]: Queue empty[0m
-[0m[ INFO] [1553243127.698260112]: Queue empty[0m
-[0m[ INFO] [1553243127.723418565]: Queue empty[0m
-[0m[ INFO] [1553243127.745221853]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 164][0m
-[0m[ INFO] [1553243128.105481854]: image ID: 164; starting time: 1553243127.745311272; finishing time: 1553243128.105415717[0m
-[0m[ INFO] [1553243128.135754398]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 168][0m
-[0m[ INFO] [1553243128.495990485]: image ID: 168; starting time: 1553243128.135822585; finishing time: 1553243128.495925209[0m
-[0m[ INFO] [1553243128.516641628]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 176][0m
-[0m[ INFO] [1553243128.876866055]: image ID: 176; starting time: 1553243128.516709565; finishing time: 1553243128.876808269[0m
-[0m[ INFO] [1553243128.889880665]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 183][0m
-[0m[ INFO] [1553243129.250108851]: image ID: 183; starting time: 1553243128.889936840; finishing time: 1553243129.250043684[0m
-[0m[ INFO] [1553243129.266217380]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 190][0m
-[0m[ INFO] [1553243129.626465167]: image ID: 190; starting time: 1553243129.266305549; finishing time: 1553243129.626403691[0m
-[0m[ INFO] [1553243129.638189038]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 197][0m
-[0m[ INFO] [1553243129.998412803]: image ID: 197; starting time: 1553243129.638260746; finishing time: 1553243129.998357958[0m
-[0m[ INFO] [1553243130.006790420]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 204][0m
-[0m[ INFO] [1553243130.367008874]: image ID: 204; starting time: 1553243130.006858367; finishing time: 1553243130.366951848[0m
-[0m[ INFO] [1553243130.379029734]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 211][0m
-[0m[ INFO] [1553243130.739256159]: image ID: 211; starting time: 1553243130.379091811; finishing time: 1553243130.739192002[0m
-[0m[ INFO] [1553243130.753320904]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 218][0m
-[0m[ INFO] [1553243131.113556288]: image ID: 218; starting time: 1553243130.753391961; finishing time: 1553243131.113493912[0m
-[0m[ INFO] [1553243131.140500820]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 227][0m
-[0m[ INFO] [1553243131.500729273]: image ID: 227; starting time: 1553243131.140567967; finishing time: 1553243131.500667277[0m
-[0m[ INFO] [1553243131.507845464]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 234][0m
-[0m[ INFO] [1553243131.868057946]: image ID: 234; starting time: 1553243131.507907500; finishing time: 1553243131.868003190[0m
-[0m[ INFO] [1553243131.888751453]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 241][0m
-[0m[ INFO] [1553243132.249042531]: image ID: 241; starting time: 1553243131.888871865; finishing time: 1553243132.248978455[0m
-[0m[ INFO] [1553243132.260128539]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 249][0m
-[0m[ INFO] [1553243132.620476683]: image ID: 249; starting time: 1553243132.260184114; finishing time: 1553243132.620415597[0m
-[0m[ INFO] [1553243132.629313046]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 256][0m
-[0m[ INFO] [1553243132.989546018]: image ID: 256; starting time: 1553243132.629375312; finishing time: 1553243132.989483132[0m
-[0m[ INFO] [1553243133.006391571]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 263][0m
-[0m[ INFO] [1553243133.366623842]: image ID: 263; starting time: 1553243133.006453037; finishing time: 1553243133.366558536[0m
-[0m[ INFO] [1553243133.386834651]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 271][0m
-[0m[ INFO] [1553243133.747057461]: image ID: 271; starting time: 1553243133.386899367; finishing time: 1553243133.746996835[0m
-[0m[ INFO] [1553243133.764208395]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 279][0m
-[0m[ INFO] [1553243134.124429234]: image ID: 279; starting time: 1553243133.764266870; finishing time: 1553243134.124368568[0m
-[0m[ INFO] [1553243134.131469868]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 286][0m
-[0m[ INFO] [1553243134.491692057]: image ID: 286; starting time: 1553243134.131532604; finishing time: 1553243134.491630381[0m
-[0m[ INFO] [1553243134.504473764]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 293][0m
-[0m[ INFO] [1553243134.864688212]: image ID: 293; starting time: 1553243134.504538180; finishing time: 1553243134.864635297[0m
-[0m[ INFO] [1553243134.871896522]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 301][0m
-[0m[ INFO] [1553243135.232128012]: image ID: 301; starting time: 1553243134.871958588; finishing time: 1553243135.232065495[0m
-[0m[ INFO] [1553243135.244568814]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 308][0m
-[0m[ INFO] [1553243135.604800643]: image ID: 308; starting time: 1553243135.244631380; finishing time: 1553243135.604736047[0m
-[0m[ INFO] [1553243135.622257057]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 316][0m
-[0m[ INFO] [1553243135.982495497]: image ID: 316; starting time: 1553243135.622333995; finishing time: 1553243135.982439241[0m
-[0m[ INFO] [1553243135.995080224]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 323][0m
-[0m[ INFO] [1553243136.355313662]: image ID: 323; starting time: 1553243135.995143080; finishing time: 1553243136.355247345[0m
-[0m[ INFO] [1553243136.370502469]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 331][0m
-[0m[ INFO] [1553243136.730730106]: image ID: 331; starting time: 1553243136.370571246; finishing time: 1553243136.730672861[0m
-[0m[ INFO] [1553243136.741939346]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 339][0m
-[0m[ INFO] [1553243137.102160223]: image ID: 339; starting time: 1553243136.742005122; finishing time: 1553243137.102101647[0m
-[0m[ INFO] [1553243137.118793434]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 346][0m
-[0m[ INFO] [1553243137.479009409]: image ID: 346; starting time: 1553243137.118855010; finishing time: 1553243137.478950433[0m
-[0m[ INFO] [1553243137.486203118]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 353][0m
-[0m[ INFO] [1553243137.846415422]: image ID: 353; starting time: 1553243137.486265174; finishing time: 1553243137.846360907[0m
-[0m[ INFO] [1553243137.854586989]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 360][0m
-[0m[ INFO] [1553243138.214833716]: image ID: 360; starting time: 1553243137.854650495; finishing time: 1553243138.214784821[0m
-[0m[ INFO] [1553243138.222268469]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 367][0m
-[0m[ INFO] [1553243138.582500975]: image ID: 367; starting time: 1553243138.222355458; finishing time: 1553243138.582446179[0m
-[0m[ INFO] [1553243138.599194732]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 375][0m
-[0m[ INFO] [1553243138.959497045]: image ID: 375; starting time: 1553243138.599334646; finishing time: 1553243138.959434579[0m
-[0m[ INFO] [1553243138.972655449]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 382][0m
-[0m[ INFO] [1553243139.332886484]: image ID: 382; starting time: 1553243138.972724326; finishing time: 1553243139.332825048[0m
-[0m[ INFO] [1553243139.347178471]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 389][0m
-[0m[ INFO] [1553243139.707394924]: image ID: 389; starting time: 1553243139.347233706; finishing time: 1553243139.707331368[0m
-[0m[ INFO] [1553243139.721876170]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 397][0m
-[0m[ INFO] [1553243140.082099534]: image ID: 397; starting time: 1553243139.721942637; finishing time: 1553243140.082045869[0m
-[0m[ INFO] [1553243140.097317964]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 405][0m
-[0m[ INFO] [1553243140.457544617]: image ID: 405; starting time: 1553243140.097386991; finishing time: 1553243140.457484801[0m
-[0m[ INFO] [1553243140.464994561]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 413][0m
-[0m[ INFO] [1553243140.825228635]: image ID: 413; starting time: 1553243140.465058557; finishing time: 1553243140.825163748[0m
-[0m[ INFO] [1553243140.839623852]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 420][0m
-[0m[ INFO] [1553243141.199858975]: image ID: 420; starting time: 1553243140.839690479; finishing time: 1553243141.199793919[0m
-[0m[ INFO] [1553243141.219242991]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 427][0m
-[0m[ INFO] [1553243141.579458062]: image ID: 427; starting time: 1553243141.219300687; finishing time: 1553243141.579395266[0m
-[0m[ INFO] [1553243141.589674082]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 435][0m
-[0m[ INFO] [1553243141.949904575]: image ID: 435; starting time: 1553243141.589739659; finishing time: 1553243141.949843848[0m
-[0m[ INFO] [1553243141.957802883]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 442][0m
-[0m[ INFO] [1553243142.318014643]: image ID: 442; starting time: 1553243141.957868950; finishing time: 1553243142.317964568[0m
-[0m[ INFO] [1553243142.334322571]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 449][0m
-[0m[ INFO] [1553243142.694559363]: image ID: 449; starting time: 1553243142.334390368; finishing time: 1553243142.694495227[0m
-[0m[ INFO] [1553243142.713727827]: Queue empty[0m
-[0m[ INFO] [1553243142.721096793]: Queue empty[0m
-[0m[ INFO] [1553243142.740668177]: Queue empty[0m
-[0m[ INFO] [1553243142.767837620]: Queue empty[0m
-[0m[ INFO] [1553243142.785862410]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 465][0m
-[0m[ INFO] [1553243143.146095481]: image ID: 465; starting time: 1553243142.785932777; finishing time: 1553243143.146037506[0m
-[0m[ INFO] [1553243143.160458756]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 467][0m
-[0m[ INFO] [1553243143.520679875]: image ID: 467; starting time: 1553243143.160519432; finishing time: 1553243143.520619019[0m
-[0m[ INFO] [1553243143.541344358]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 475][0m
-[0m[ INFO] [1553243143.901567858]: image ID: 475; starting time: 1553243143.541406084; finishing time: 1553243143.901506462[0m
-[0m[ INFO] [1553243143.920343403]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 483][0m
-[0m[ INFO] [1553243144.280573222]: image ID: 483; starting time: 1553243143.920409399; finishing time: 1553243144.280512046[0m
-[0m[ INFO] [1553243144.297083310]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 490][0m
-[0m[ INFO] [1553243144.657305869]: image ID: 490; starting time: 1553243144.297140676; finishing time: 1553243144.657241882[0m
-[0m[ INFO] [1553243144.670038840]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 498][0m
-[0m[ INFO] [1553243145.030254488]: image ID: 498; starting time: 1553243144.670096056; finishing time: 1553243145.030193532[0m
-[0m[ INFO] [1553243145.043969467]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 506][0m
-[0m[ INFO] [1553243145.404211436]: image ID: 506; starting time: 1553243145.044041344; finishing time: 1553243145.404146820[0m
-[0m[ INFO] [1553243145.425577630]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 513][0m
-[0m[ INFO] [1553243145.785803077]: image ID: 513; starting time: 1553243145.425644366; finishing time: 1553243145.785744421[0m
-[0m[ INFO] [1553243145.799516776]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 521][0m
-[0m[ INFO] [1553243146.159734563]: image ID: 521; starting time: 1553243145.799585973; finishing time: 1553243146.159678747[0m
-[0m[ INFO] [1553243146.187576953]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 528][0m
-[0m[ INFO] [1553243146.547808540]: image ID: 528; starting time: 1553243146.187641919; finishing time: 1553243146.547746063[0m
-[0m[ INFO] [1553243146.564189945]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 536][0m
-[0m[ INFO] [1553243146.924408471]: image ID: 536; starting time: 1553243146.564255892; finishing time: 1553243146.924356316[0m
-[0m[ INFO] [1553243146.949754291]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 543][0m
-[0m[ INFO] [1553243147.310013500]: image ID: 543; starting time: 1553243146.949820608; finishing time: 1553243147.309950614[0m
-[0m[ INFO] [1553243147.330962542]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 551][0m
-[0m[ INFO] [1553243147.691188957]: image ID: 551; starting time: 1553243147.331025208; finishing time: 1553243147.691128981[0m
-[0m[ INFO] [1553243147.706408517]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 558][0m
-[0m[ INFO] [1553243148.066628291]: image ID: 558; starting time: 1553243147.706463222; finishing time: 1553243148.066564715[0m
-[0m[ INFO] [1553243148.089353110]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 565][0m
-[0m[ INFO] [1553243148.449601627]: image ID: 565; starting time: 1553243148.089432008; finishing time: 1553243148.449537830[0m
-[0m[ INFO] [1553243148.468595723]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 573][0m
-[0m[ INFO] [1553243148.828826888]: image ID: 573; starting time: 1553243148.468666510; finishing time: 1553243148.828766142[0m
-[0m[ INFO] [1553243148.839585632]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 580][0m
-[0m[ INFO] [1553243149.199816046]: image ID: 580; starting time: 1553243148.839651769; finishing time: 1553243149.199751860[0m
-[0m[ INFO] [1553243149.217050867]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 587][0m
-[0m[ INFO] [1553243149.577255848]: image ID: 587; starting time: 1553243149.217108403; finishing time: 1553243149.577205643[0m
-[0m[ INFO] [1553243149.585815773]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 595][0m
-[0m[ INFO] [1553243149.946040056]: image ID: 595; starting time: 1553243149.585878419; finishing time: 1553243149.945978900[0m
-[0m[ INFO] [1553243149.964097028]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 602][0m
-[0m[ INFO] [1553243150.324321000]: image ID: 602; starting time: 1553243149.964162145; finishing time: 1553243150.324260104[0m
-[0m[ INFO] [1553243150.344876193]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 609][0m
-[0m[ INFO] [1553243150.705102525]: image ID: 609; starting time: 1553243150.344944329; finishing time: 1553243150.705043999[0m
-[0m[ INFO] [1553243150.719393401]: Queue empty[0m
-[0m[ INFO] [1553243150.734982858]: Queue empty[0m
-[0m[ INFO] [1553243150.744646012]: Queue empty[0m
-[0m[ INFO] [1553243150.774648408]: Queue empty[0m
-[0m[ INFO] [1553243150.786722923]: Queue empty[0m
-[0m[ INFO] [1553243150.808622929]: Queue empty[0m
-[0m[ INFO] [1553243150.838533875]: Queue empty[0m
-[0m[ INFO] [1553243150.846741305]: Queue empty[0m
-[0m[ INFO] [1553243150.882708075]: Queue empty[0m
-[0m[ INFO] [1553243150.890654779]: Queue empty[0m
-[0m[ INFO] [1553243150.905213412]: Queue empty[0m
-[0m[ INFO] [1553243150.923378176]: Queue empty[0m
-[0m[ INFO] [1553243150.943055400]: Queue empty[0m
-[0m[ INFO] [1553243150.968065217]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 629][0m
-[0m[ INFO] [1553243151.328297839]: image ID: 629; starting time: 1553243150.968135504; finishing time: 1553243151.328236823[0m
-[0m[ INFO] [1553243151.344040110]: Queue empty[0m
-[0m[ INFO] [1553243151.351246820]: Queue empty[0m
-[0m[ INFO] [1553243151.374257887]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 637][0m
-[0m[ INFO] [1553243151.734512601]: image ID: 637; starting time: 1553243151.374348846; finishing time: 1553243151.734450615[0m
-[0m[ INFO] [1553243151.748733300]: Queue empty[0m
-[0m[ INFO] [1553243151.755976053]: Queue empty[0m
-[0m[ INFO] [1553243151.776228765]: Queue empty[0m
-[0m[ INFO] [1553243151.795924962]: Queue empty[0m
-[0m[ INFO] [1553243151.821079883]: Queue empty[0m
-[0m[ INFO] [1553243151.839072689]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 646][0m
-[0m[ INFO] [1553243152.199303250]: image ID: 646; starting time: 1553243151.839137695; finishing time: 1553243152.199237643[0m
-[0m[ INFO] [1553243152.224053701]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 649][0m
-[0m[ INFO] [1553243152.584305763]: image ID: 649; starting time: 1553243152.224111006; finishing time: 1553243152.584241237[0m
-[0m[ INFO] [1553243152.600234223]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 656][0m
-[0m[ INFO] [1553243152.960460493]: image ID: 656; starting time: 1553243152.600298750; finishing time: 1553243152.960395117[0m
-[0m[ INFO] [1553243152.989810553]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 663][0m
-[0m[ INFO] [1553243153.350045663]: image ID: 663; starting time: 1553243152.989874670; finishing time: 1553243153.349980367[0m
-[0m[ INFO] [1553243153.364991405]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 671][0m
-[0m[ INFO] [1553243153.725223274]: image ID: 671; starting time: 1553243153.365059182; finishing time: 1553243153.725160028[0m
-[0m[ INFO] [1553243153.739876137]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 678][0m
-[0m[ INFO] [1553243154.100098965]: image ID: 678; starting time: 1553243153.739941604; finishing time: 1553243154.100037959[0m
-[0m[ INFO] [1553243154.107333998]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 685][0m
-[0m[ INFO] [1553243154.467557085]: image ID: 685; starting time: 1553243154.107395894; finishing time: 1553243154.467496609[0m
-[0m[ INFO] [1553243154.484199837]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 693][0m
-[0m[ INFO] [1553243154.844424224]: image ID: 693; starting time: 1553243154.484265713; finishing time: 1553243154.844364628[0m
-[0m[ INFO] [1553243154.857175497]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 700][0m
-[0m[ INFO] [1553243155.217404775]: image ID: 700; starting time: 1553243154.857243954; finishing time: 1553243155.217346259[0m
-[0m[ INFO] [1553243155.236473298]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 707][0m
-[0m[ INFO] [1553243155.596692834]: image ID: 707; starting time: 1553243155.236539975; finishing time: 1553243155.596637069[0m
-[0m[ INFO] [1553243155.605167630]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 714][0m
-[0m[ INFO] [1553243155.965389826]: image ID: 714; starting time: 1553243155.605232947; finishing time: 1553243155.965334091[0m
-[0m[ INFO] [1553243155.978601815]: Queue empty[0m
-[0m[ INFO] [1553243156.000004182]: Queue empty[0m
-[0m[ INFO] [1553243156.010563175]: Queue empty[0m
-[0m[ INFO] [1553243156.030198115]: Queue empty[0m
-[0m[ INFO] [1553243156.042346068]: Queue empty[0m
-[0m[ INFO] [1553243156.062603660]: Queue empty[0m
-[0m[ INFO] [1553243156.089261561]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 731][0m
-[0m[ INFO] [1553243156.449497757]: image ID: 731; starting time: 1553243156.089331218; finishing time: 1553243156.449433101[0m
-[0m[ INFO] [1553243156.457698286]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 735][0m
-[0m[ INFO] [1553243156.817926462]: image ID: 735; starting time: 1553243156.457763702; finishing time: 1553243156.817866906[0m
-[0m[ INFO] [1553243156.831701177]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 742][0m
-[0m[ INFO] [1553243157.191930372]: image ID: 742; starting time: 1553243156.831764673; finishing time: 1553243157.191869826[0m
-[0m[ INFO] [1553243157.199793077]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 750][0m
-[0m[ INFO] [1553243157.560002230]: image ID: 750; starting time: 1553243157.199859044; finishing time: 1553243157.559951935[0m
-[0m[ INFO] [1553243157.568918330]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 757][0m
-[0m[ INFO] [1553243157.929142254]: image ID: 757; starting time: 1553243157.568986897; finishing time: 1553243157.929087729[0m
-[0m[ INFO] [1553243157.942112259]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 765][0m
-[0m[ INFO] [1553243158.302360275]: image ID: 765; starting time: 1553243157.942177775; finishing time: 1553243158.302294708[0m
-[0m[ INFO] [1553243158.317887015]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 772][0m
-[0m[ INFO] [1553243158.678111868]: image ID: 772; starting time: 1553243158.317950481; finishing time: 1553243158.678053742[0m
-[0m[ INFO] [1553243158.690654770]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 779][0m
-[0m[ INFO] [1553243159.050952291]: image ID: 779; starting time: 1553243158.690718626; finishing time: 1553243159.050897575[0m
-[0m[ INFO] [1553243159.064812874]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 787][0m
-[0m[ INFO] [1553243159.425044327]: image ID: 787; starting time: 1553243159.064881471; finishing time: 1553243159.424984931[0m
-[0m[ INFO] [1553243159.445024271]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 794][0m
-[0m[ INFO] [1553243159.805251174]: image ID: 794; starting time: 1553243159.445090858; finishing time: 1553243159.805191648[0m
-[0m[ INFO] [1553243159.824351410]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 801][0m
-[0m[ INFO] [1553243160.184576542]: image ID: 801; starting time: 1553243159.824408496; finishing time: 1553243160.184513956[0m
-[0m[ INFO] [1553243160.197032445]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 809][0m
-[0m[ INFO] [1553243160.557265097]: image ID: 809; starting time: 1553243160.197100632; finishing time: 1553243160.557204601[0m
-[0m[ INFO] [1553243160.574193297]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 816][0m
-[0m[ INFO] [1553243160.934406007]: image ID: 816; starting time: 1553243160.574248212; finishing time: 1553243160.934347091[0m
-[0m[ INFO] [1553243160.946827316]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 825][0m
-[0m[ INFO] [1553243161.307039426]: image ID: 825; starting time: 1553243160.946884952; finishing time: 1553243161.306982160[0m
-[0m[ INFO] [1553243161.322734552]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 832][0m
-[0m[ INFO] [1553243161.682950931]: image ID: 832; starting time: 1553243161.322794248; finishing time: 1553243161.682891876[0m
-[0m[ INFO] [1553243161.695717756]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 839][0m
-[0m[ INFO] [1553243162.055947776]: image ID: 839; starting time: 1553243161.695782082; finishing time: 1553243162.055884560[0m
-[0m[ INFO] [1553243162.070512260]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 846][0m
-[0m[ INFO] [1553243162.430749840]: image ID: 846; starting time: 1553243162.070580106; finishing time: 1553243162.430688194[0m
-[0m[ INFO] [1553243162.445177930]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 854][0m
-[0m[ INFO] [1553243162.805407520]: image ID: 854; starting time: 1553243162.445245727; finishing time: 1553243162.805346074[0m
-[0m[ INFO] [1553243162.820254551]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 861][0m
-[0m[ INFO] [1553243163.180475820]: image ID: 861; starting time: 1553243162.820313267; finishing time: 1553243163.180410973[0m
-[0m[ INFO] [1553243163.194204940]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 868][0m
-[0m[ INFO] [1553243163.554440989]: image ID: 868; starting time: 1553243163.194272067; finishing time: 1553243163.554377263[0m
-[0m[ INFO] [1553243163.567853928]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 876][0m
-[0m[ INFO] [1553243163.928074956]: image ID: 876; starting time: 1553243163.567921594; finishing time: 1553243163.928021850[0m
-[0m[ INFO] [1553243163.939869383]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 883][0m
-[0m[ INFO] [1553243164.300081719]: image ID: 883; starting time: 1553243163.939927178; finishing time: 1553243164.300021763[0m
-[0m[ INFO] [1553243164.310725311]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 890][0m
-[0m[ INFO] [1553243164.670945057]: image ID: 890; starting time: 1553243164.310781456; finishing time: 1553243164.670882011[0m
-[0m[ INFO] [1553243164.686515431]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 897][0m
-[0m[ INFO] [1553243165.046791973]: image ID: 897; starting time: 1553243164.686579448; finishing time: 1553243165.046738368[0m
-[0m[ INFO] [1553243165.071032622]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 904][0m
-[0m[ INFO] [1553243165.431263429]: image ID: 904; starting time: 1553243165.071095429; finishing time: 1553243165.431199593[0m
-[0m[ INFO] [1553243165.444789969]: CPU NetVLAD heard: [ DPU NetVLAD result: hello world 911][0m
+[0m[ INFO] [1557317781.579082299]: Queue empty[0m
+[0m[ INFO] [1557317781.597300794]: Queue empty[0m
+[0m[ INFO] [1557317781.616665265]: Queue empty[0m
+[0m[ INFO] [1557317781.640620559]: Queue empty[0m
+[0m[ INFO] [1557317781.656103079]: Queue empty[0m
+[0m[ INFO] [1557317781.676105804]: Queue empty[0m
+[0m[ INFO] [1557317781.696304809]: Queue empty[0m
+[0m[ INFO] [1557317781.716159969]: Queue empty[0m
+[0m[ INFO] [1557317781.736187257]: Queue empty[0m
+[0m[ INFO] [1557317781.759260161]: Queue empty[0m
+[0m[ INFO] [1557317781.778040563]: Queue empty[0m
+[0m[ INFO] [1557317781.798240078]: Queue empty[0m
+[0m[ INFO] [1557317781.816259623]: Queue empty[0m
+[0m[ INFO] [1557317781.836283891]: Queue empty[0m
+[0m[ INFO] [1557317781.856415209]: Queue empty[0m
+[0m[ INFO] [1557317781.879536518]: Queue empty[0m
+[0m[ INFO] [1557317781.896459303]: Queue empty[0m
+[0m[ INFO] [1557317781.916537156]: Queue empty[0m
+[0m[ INFO] [1557317781.936516319]: Queue empty[0m
+[0m[ INFO] [1557317781.956477390]: Queue empty[0m
+[0m[ INFO] [1557317781.976729030]: Queue empty[0m
+[0m[ INFO] [1557317781.996758568]: CPU NetVLAD heard: [6][0m
+[0m[ INFO] [1557317781.996854367]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317782.357139025]: image ID: 6; starting time: 1557317781.996902012; finishing time: 1557317782.357092010[0m
+[0m[ INFO] [1557317782.365010408]: Queue empty[0m
+[0m[ INFO] [1557317782.368772867]: Queue empty[0m
+[0m[ INFO] [1557317782.390263522]: Queue empty[0m
+[0m[ INFO] [1557317782.409618982]: Queue empty[0m
+[0m[ INFO] [1557317782.428469901]: Queue empty[0m
+[0m[ INFO] [1557317782.448879767]: Queue empty[0m
+[0m[ INFO] [1557317782.468405015]: Queue empty[0m
+[0m[ INFO] [1557317782.489421172]: Queue empty[0m
+[0m[ INFO] [1557317782.509099314]: CPU NetVLAD heard: [14][0m
+[0m[ INFO] [1557317782.509185633]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317782.869364360]: image ID: 14; starting time: 1557317782.509214426; finishing time: 1557317782.869310474[0m
+[0m[ INFO] [1557317782.876855305]: Queue empty[0m
+[0m[ INFO] [1557317782.881540317]: Queue empty[0m
+[0m[ INFO] [1557317782.900531540]: Queue empty[0m
+[0m[ INFO] [1557317782.922100543]: Queue empty[0m
+[0m[ INFO] [1557317782.941080335]: Queue empty[0m
+[0m[ INFO] [1557317782.960932195]: Queue empty[0m
+[0m[ INFO] [1557317782.980304457]: Queue empty[0m
+[0m[ INFO] [1557317783.001614224]: Queue empty[0m
+[0m[ INFO] [1557317783.020455382]: Queue empty[0m
+[0m[ INFO] [1557317783.041440556]: Queue empty[0m
+[0m[ INFO] [1557317783.061230090]: CPU NetVLAD heard: [23][0m
+[0m[ INFO] [1557317783.061311538]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317783.421496766]: image ID: 23; starting time: 1557317783.061341541; finishing time: 1557317783.421440601[0m
+[0m[ INFO] [1557317783.429866309]: CPU NetVLAD heard: [27][0m
+[0m[ INFO] [1557317783.429946238]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317783.790739157]: image ID: 27; starting time: 1557317783.429975210; finishing time: 1557317783.790650228[0m
+[0m[ INFO] [1557317783.804768910]: CPU NetVLAD heard: [35][0m
+[0m[ INFO] [1557317783.804853769]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317784.165033647]: image ID: 35; starting time: 1557317783.804884272; finishing time: 1557317784.164982072[0m
+[0m[ INFO] [1557317784.171967726]: Queue empty[0m
+[0m[ INFO] [1557317784.175373079]: Queue empty[0m
+[0m[ INFO] [1557317784.195565993]: Queue empty[0m
+[0m[ INFO] [1557317784.216214984]: CPU NetVLAD heard: [43][0m
+[0m[ INFO] [1557317784.216300552]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317784.576482601]: image ID: 43; starting time: 1557317784.216330335; finishing time: 1557317784.576423535[0m
+[0m[ INFO] [1557317784.584772526]: Queue empty[0m
+[0m[ INFO] [1557317784.588356437]: Queue empty[0m
+[0m[ INFO] [1557317784.608743151]: Queue empty[0m
+[0m[ INFO] [1557317784.628382180]: CPU NetVLAD heard: [50][0m
+[0m[ INFO] [1557317784.628481960]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317784.988771709]: image ID: 50; starting time: 1557317784.628587390; finishing time: 1557317784.988700152[0m
+[0m[ INFO] [1557317784.996725481]: CPU NetVLAD heard: [54][0m
+[0m[ INFO] [1557317784.996809419]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317785.357034503]: image ID: 54; starting time: 1557317784.996839242; finishing time: 1557317785.356983188[0m
+[0m[ INFO] [1557317785.368321730]: CPU NetVLAD heard: [62][0m
+[0m[ INFO] [1557317785.368404779]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317785.728600259]: image ID: 62; starting time: 1557317785.368433721; finishing time: 1557317785.728535113[0m
+[0m[ INFO] [1557317785.735450780]: Queue empty[0m
+[0m[ INFO] [1557317785.738601557]: Queue empty[0m
+[0m[ INFO] [1557317785.758633755]: Queue empty[0m
+[0m[ INFO] [1557317785.783685489]: Queue empty[0m
+[0m[ INFO] [1557317785.806007028]: CPU NetVLAD heard: [70][0m
+[0m[ INFO] [1557317785.806086936]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317786.166274167]: image ID: 70; starting time: 1557317785.806118350; finishing time: 1557317786.166212200[0m
+[0m[ INFO] [1557317786.174299585]: CPU NetVLAD heard: [75][0m
+[0m[ INFO] [1557317786.174382784]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317786.534793917]: image ID: 75; starting time: 1557317786.174420717; finishing time: 1557317786.534740912[0m
+[0m[ INFO] [1557317786.542135617]: Queue empty[0m
+[0m[ INFO] [1557317786.545345660]: Queue empty[0m
+[0m[ INFO] [1557317786.565439015]: Queue empty[0m
+[0m[ INFO] [1557317786.585446300]: Queue empty[0m
+[0m[ INFO] [1557317786.605405461]: Queue empty[0m
+[0m[ INFO] [1557317786.625460102]: Queue empty[0m
+[0m[ INFO] [1557317786.647510434]: Queue empty[0m
+[0m[ INFO] [1557317786.665406087]: Queue empty[0m
+[0m[ INFO] [1557317786.685315753]: Queue empty[0m
+[0m[ INFO] [1557317786.705525539]: Queue empty[0m
+[0m[ INFO] [1557317786.728550019]: Queue empty[0m
+[0m[ INFO] [1557317786.745989746]: Queue empty[0m
+[0m[ INFO] [1557317786.765474199]: CPU NetVLAD heard: [87][0m
+[0m[ INFO] [1557317786.765556757]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317787.125752829]: image ID: 87; starting time: 1557317786.765594071; finishing time: 1557317787.125691293[0m
+[0m[ INFO] [1557317787.133953136]: CPU NetVLAD heard: [91][0m
+[0m[ INFO] [1557317787.134050415]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317787.494414105]: image ID: 91; starting time: 1557317787.134084589; finishing time: 1557317787.494357509[0m
+[0m[ INFO] [1557317787.504072488]: CPU NetVLAD heard: [99][0m
+[0m[ INFO] [1557317787.504184679]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317787.864594453]: image ID: 99; starting time: 1557317787.504217682; finishing time: 1557317787.864544048[0m
+[0m[ INFO] [1557317787.872424522]: Queue empty[0m
+[0m[ INFO] [1557317787.875908913]: Queue empty[0m
+[0m[ INFO] [1557317787.895859953]: Queue empty[0m
+[0m[ INFO] [1557317787.915731355]: Queue empty[0m
+[0m[ INFO] [1557317787.935717169]: Queue empty[0m
+[0m[ INFO] [1557317787.957722776]: Queue empty[0m
+[0m[ INFO] [1557317787.975936741]: Queue empty[0m
+[0m[ INFO] [1557317787.995769960]: Queue empty[0m
+[0m[ INFO] [1557317788.015768295]: Queue empty[0m
+[0m[ INFO] [1557317788.035677661]: Queue empty[0m
+[0m[ INFO] [1557317788.056429402]: Queue empty[0m
+[0m[ INFO] [1557317788.075742648]: Queue empty[0m
+[0m[ INFO] [1557317788.095709910]: Queue empty[0m
+[0m[ INFO] [1557317788.115548849]: Queue empty[0m
+[0m[ INFO] [1557317788.135750784]: Queue empty[0m
+[0m[ INFO] [1557317788.155688413]: Queue empty[0m
+[0m[ INFO] [1557317788.175606210]: Queue empty[0m
+[0m[ INFO] [1557317788.195741249]: Queue empty[0m
+[0m[ INFO] [1557317788.215665866]: Queue empty[0m
+[0m[ INFO] [1557317788.236291315]: Queue empty[0m
+[0m[ INFO] [1557317788.255740444]: Queue empty[0m
+[0m[ INFO] [1557317788.275868512]: Queue empty[0m
+[0m[ INFO] [1557317788.296166568]: Queue empty[0m
+[0m[ INFO] [1557317788.315769033]: Queue empty[0m
+[0m[ INFO] [1557317788.336231444]: Queue empty[0m
+[0m[ INFO] [1557317788.355742910]: Queue empty[0m
+[0m[ INFO] [1557317788.375850256]: Queue empty[0m
+[0m[ INFO] [1557317788.395545021]: Queue empty[0m
+[0m[ INFO] [1557317788.415729055]: Queue empty[0m
+[0m[ INFO] [1557317788.435691686]: Queue empty[0m
+[0m[ INFO] [1557317788.455567449]: Queue empty[0m
+[0m[ INFO] [1557317788.475863874]: Queue empty[0m
+[0m[ INFO] [1557317788.495680280]: Queue empty[0m
+[0m[ INFO] [1557317788.517554574]: Queue empty[0m
+[0m[ INFO] [1557317788.535672750]: Queue empty[0m
+[0m[ INFO] [1557317788.556069265]: Queue empty[0m
+[0m[ INFO] [1557317788.575640037]: Queue empty[0m
+[0m[ INFO] [1557317788.597615211]: Queue empty[0m
+[0m[ INFO] [1557317788.615922926]: CPU NetVLAD heard: [120][0m
+[0m[ INFO] [1557317788.616003464]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317788.976180855]: image ID: 120; starting time: 1557317788.616034837; finishing time: 1557317788.976129880[0m
+[0m[ INFO] [1557317788.982703183]: Queue empty[0m
+[0m[ INFO] [1557317788.986028868]: Queue empty[0m
+[0m[ INFO] [1557317789.005963156]: Queue empty[0m
+[0m[ INFO] [1557317789.025920467]: Queue empty[0m
+[0m[ INFO] [1557317789.045992650]: Queue empty[0m
+[0m[ INFO] [1557317789.065729238]: Queue empty[0m
+[0m[ INFO] [1557317789.085925573]: Queue empty[0m
+[0m[ INFO] [1557317789.106316628]: Queue empty[0m
+[0m[ INFO] [1557317789.125885730]: Queue empty[0m
+[0m[ INFO] [1557317789.146022919]: Queue empty[0m
+[0m[ INFO] [1557317789.166087591]: CPU NetVLAD heard: [130][0m
+[0m[ INFO] [1557317789.166173709]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317789.526363452]: image ID: 130; starting time: 1557317789.166206423; finishing time: 1557317789.526303296[0m
+[0m[ INFO] [1557317789.534562409]: Queue empty[0m
+[0m[ INFO] [1557317789.538262911]: Queue empty[0m
+[0m[ INFO] [1557317789.558496620]: Queue empty[0m
+[0m[ INFO] [1557317789.577755981]: Queue empty[0m
+[0m[ INFO] [1557317789.597786519]: Queue empty[0m
+[0m[ INFO] [1557317789.617757071]: Queue empty[0m
+[0m[ INFO] [1557317789.637815092]: Queue empty[0m
+[0m[ INFO] [1557317789.658971964]: CPU NetVLAD heard: [139][0m
+[0m[ INFO] [1557317789.659058043]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317790.019245246]: image ID: 139; starting time: 1557317789.659091376; finishing time: 1557317790.019185460[0m
+[0m[ INFO] [1557317790.025454802]: Queue empty[0m
+[0m[ INFO] [1557317790.029927532]: Queue empty[0m
+[0m[ INFO] [1557317790.049919617]: Queue empty[0m
+[0m[ INFO] [1557317790.082227922]: Queue empty[0m
+[0m[ INFO] [1557317790.098112493]: Queue empty[0m
+[0m[ INFO] [1557317790.120234272]: CPU NetVLAD heard: [147][0m
+[0m[ INFO] [1557317790.120324671]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317790.480594653]: image ID: 147; starting time: 1557317790.120358164; finishing time: 1557317790.480543058[0m
+[0m[ INFO] [1557317790.489512602]: Queue empty[0m
+[0m[ INFO] [1557317790.502013831]: Queue empty[0m
+[0m[ INFO] [1557317790.514744664]: Queue empty[0m
+[0m[ INFO] [1557317790.534386303]: Queue empty[0m
+[0m[ INFO] [1557317790.554826733]: Queue empty[0m
+[0m[ INFO] [1557317790.573064721]: Queue empty[0m
+[0m[ INFO] [1557317790.595925254]: Queue empty[0m
+[0m[ INFO] [1557317790.612932598]: Queue empty[0m
+[0m[ INFO] [1557317790.632840484]: Queue empty[0m
+[0m[ INFO] [1557317790.652924118]: Queue empty[0m
+[0m[ INFO] [1557317790.672870338]: Queue empty[0m
+[0m[ INFO] [1557317790.693290475]: Queue empty[0m
+[0m[ INFO] [1557317790.715341287]: Queue empty[0m
+[0m[ INFO] [1557317790.732979614]: CPU NetVLAD heard: [158][0m
+[0m[ INFO] [1557317790.733066493]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317791.093278199]: image ID: 158; starting time: 1557317790.733098396; finishing time: 1557317791.093206042[0m
+[0m[ INFO] [1557317791.105901431]: CPU NetVLAD heard: [163][0m
+[0m[ INFO] [1557317791.105987220]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317791.466260083]: image ID: 163; starting time: 1557317791.106091311; finishing time: 1557317791.466191736[0m
+[0m[ INFO] [1557317791.486435526]: Queue empty[0m
+[0m[ INFO] [1557317791.490448081]: CPU NetVLAD heard: [172][0m
+[0m[ INFO] [1557317791.490546370]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317791.850747946]: image ID: 172; starting time: 1557317791.490579594; finishing time: 1557317791.850674019[0m
+[0m[ INFO] [1557317791.857642151]: Queue empty[0m
+[0m[ INFO] [1557317791.861441034]: Queue empty[0m
+[0m[ INFO] [1557317791.884898488]: Queue empty[0m
+[0m[ INFO] [1557317791.902771729]: Queue empty[0m
+[0m[ INFO] [1557317791.921041350]: Queue empty[0m
+[0m[ INFO] [1557317791.942624954]: Queue empty[0m
+[0m[ INFO] [1557317791.961149281]: Queue empty[0m
+[0m[ INFO] [1557317791.981312253]: Queue empty[0m
+[0m[ INFO] [1557317792.003627291]: CPU NetVLAD heard: [181][0m
+[0m[ INFO] [1557317792.003711280]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317792.363905866]: image ID: 181; starting time: 1557317792.003743313; finishing time: 1557317792.363847550[0m
+[0m[ INFO] [1557317792.371488720]: Queue empty[0m
+[0m[ INFO] [1557317792.374648888]: Queue empty[0m
+[0m[ INFO] [1557317792.394774726]: Queue empty[0m
+[0m[ INFO] [1557317792.417174734]: Queue empty[0m
+[0m[ INFO] [1557317792.434626562]: Queue empty[0m
+[0m[ INFO] [1557317792.454626697]: Queue empty[0m
+[0m[ INFO] [1557317792.481420037]: Queue empty[0m
+[0m[ INFO] [1557317792.507644550]: Queue empty[0m
+[0m[ INFO] [1557317792.519415306]: Queue empty[0m
+[0m[ INFO] [1557317792.542113863]: CPU NetVLAD heard: [190][0m
+[0m[ INFO] [1557317792.542198692]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317792.902519051]: image ID: 190; starting time: 1557317792.542230155; finishing time: 1557317792.902462885[0m
+[0m[ INFO] [1557317792.910457400]: CPU NetVLAD heard: [195][0m
+[0m[ INFO] [1557317792.910542029]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317793.270756588]: image ID: 195; starting time: 1557317792.910573952; finishing time: 1557317793.270667759[0m
+[0m[ INFO] [1557317793.277994917]: CPU NetVLAD heard: [203][0m
+[0m[ INFO] [1557317793.278076455]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317793.638259571]: image ID: 203; starting time: 1557317793.278107778; finishing time: 1557317793.638200965[0m
+[0m[ INFO] [1557317793.644744664]: Queue empty[0m
+[0m[ INFO] [1557317793.647969319]: Queue empty[0m
+[0m[ INFO] [1557317793.668450453]: Queue empty[0m
+[0m[ INFO] [1557317793.688015625]: Queue empty[0m
+[0m[ INFO] [1557317793.708542083]: Queue empty[0m
+[0m[ INFO] [1557317793.729518887]: Queue empty[0m
+[0m[ INFO] [1557317793.748155825]: CPU NetVLAD heard: [211][0m
+[0m[ INFO] [1557317793.748238413]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317794.108423159]: image ID: 211; starting time: 1557317793.748269796; finishing time: 1557317794.108365873[0m
+[0m[ INFO] [1557317794.117922216]: CPU NetVLAD heard: [218][0m
+[0m[ INFO] [1557317794.118037168]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317794.478227685]: image ID: 218; starting time: 1557317794.118066611; finishing time: 1557317794.478160948[0m
+[0m[ INFO] [1557317794.485149413]: Queue empty[0m
+[0m[ INFO] [1557317794.488817922]: Queue empty[0m
+[0m[ INFO] [1557317794.510719699]: Queue empty[0m
+[0m[ INFO] [1557317794.528357277]: Queue empty[0m
+[0m[ INFO] [1557317794.548351862]: Queue empty[0m
+[0m[ INFO] [1557317794.568354277]: Queue empty[0m
+[0m[ INFO] [1557317794.588474395]: Queue empty[0m
+[0m[ INFO] [1557317794.609271911]: Queue empty[0m
+[0m[ INFO] [1557317794.628503189]: CPU NetVLAD heard: [226][0m
+[0m[ INFO] [1557317794.628597378]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317794.988791446]: image ID: 226; starting time: 1557317794.628631202; finishing time: 1557317794.988732180[0m
+[0m[ INFO] [1557317794.995623954]: CPU NetVLAD heard: [230][0m
+[0m[ INFO] [1557317794.995812573]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317795.356025453]: image ID: 230; starting time: 1557317794.995848737; finishing time: 1557317795.355955656[0m
+[0m[ INFO] [1557317795.566752789]: CPU NetVLAD heard: [238][0m
+[0m[ INFO] [1557317795.566839108]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317795.927022785]: image ID: 238; starting time: 1557317795.566871241; finishing time: 1557317795.926965109[0m
+[0m[ INFO] [1557317795.933444952]: CPU NetVLAD heard: [247][0m
+[0m[ INFO] [1557317795.933530050]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317796.293714948]: image ID: 247; starting time: 1557317795.933562514; finishing time: 1557317796.293660443[0m
+[0m[ INFO] [1557317796.305627869]: Queue empty[0m
+[0m[ INFO] [1557317796.312807472]: Queue empty[0m
+[0m[ INFO] [1557317796.331049531]: Queue empty[0m
+[0m[ INFO] [1557317796.350330844]: Queue empty[0m
+[0m[ INFO] [1557317796.370423919]: Queue empty[0m
+[0m[ INFO] [1557317796.390662668]: Queue empty[0m
+[0m[ INFO] [1557317796.413101160]: Queue empty[0m
+[0m[ INFO] [1557317796.431682032]: CPU NetVLAD heard: [256][0m
+[0m[ INFO] [1557317796.431762390]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317796.791942178]: image ID: 256; starting time: 1557317796.431792843; finishing time: 1557317796.791887412[0m
+[0m[ INFO] [1557317796.799168856]: CPU NetVLAD heard: [260][0m
+[0m[ INFO] [1557317796.799250704]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317797.159454004]: image ID: 260; starting time: 1557317796.799281587; finishing time: 1557317797.159382917[0m
+[0m[ INFO] [1557317797.166928067]: Queue empty[0m
+[0m[ INFO] [1557317797.170270194]: Queue empty[0m
+[0m[ INFO] [1557317797.190123195]: Queue empty[0m
+[0m[ INFO] [1557317797.210359284]: Queue empty[0m
+[0m[ INFO] [1557317797.230385743]: CPU NetVLAD heard: [269][0m
+[0m[ INFO] [1557317797.230471671]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317797.590692524]: image ID: 269; starting time: 1557317797.230501884; finishing time: 1557317797.590613276[0m
+[0m[ INFO] [1557317797.597187418]: CPU NetVLAD heard: [273][0m
+[0m[ INFO] [1557317797.597266766]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317797.957449545]: image ID: 273; starting time: 1557317797.597295429; finishing time: 1557317797.957397599[0m
+[0m[ INFO] [1557317797.965589645]: CPU NetVLAD heard: [281][0m
+[0m[ INFO] [1557317797.965672733]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317798.325855102]: image ID: 281; starting time: 1557317797.965701256; finishing time: 1557317798.325801847[0m
+[0m[ INFO] [1557317798.335007025]: Queue empty[0m
+[0m[ INFO] [1557317798.338326619]: Queue empty[0m
+[0m[ INFO] [1557317798.358217194]: Queue empty[0m
+[0m[ INFO] [1557317798.377918789]: Queue empty[0m
+[0m[ INFO] [1557317798.398285282]: Queue empty[0m
+[0m[ INFO] [1557317798.419540784]: CPU NetVLAD heard: [290][0m
+[0m[ INFO] [1557317798.419624463]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317798.779808702]: image ID: 290; starting time: 1557317798.419653826; finishing time: 1557317798.779751886[0m
+[0m[ INFO] [1557317798.787846212]: CPU NetVLAD heard: [293][0m
+[0m[ INFO] [1557317798.787938331]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317799.148123291]: image ID: 293; starting time: 1557317798.787968484; finishing time: 1557317799.148066315[0m
+[0m[ INFO] [1557317799.154313135]: Queue empty[0m
+[0m[ INFO] [1557317799.157339890]: Queue empty[0m
+[0m[ INFO] [1557317799.177485470]: Queue empty[0m
+[0m[ INFO] [1557317799.203471669]: Queue empty[0m
+[0m[ INFO] [1557317799.217137116]: CPU NetVLAD heard: [304][0m
+[0m[ INFO] [1557317799.217224305]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317799.577420457]: image ID: 304; starting time: 1557317799.217254408; finishing time: 1557317799.577356300[0m
+[0m[ INFO] [1557317799.588787972]: CPU NetVLAD heard: [309][0m
+[0m[ INFO] [1557317799.588878081]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317799.949159291]: image ID: 309; starting time: 1557317799.588984612; finishing time: 1557317799.949089814[0m
+[0m[ INFO] [1557317799.957462758]: Queue empty[0m
+[0m[ INFO] [1557317799.960535158]: Queue empty[0m
+[0m[ INFO] [1557317799.981738585]: Queue empty[0m
+[0m[ INFO] [1557317800.002356132]: Queue empty[0m
+[0m[ INFO] [1557317800.022260098]: Queue empty[0m
+[0m[ INFO] [1557317800.040743731]: Queue empty[0m
+[0m[ INFO] [1557317800.062709065]: Queue empty[0m
+[0m[ INFO] [1557317800.082456995]: Queue empty[0m
+[0m[ INFO] [1557317800.100915826]: Queue empty[0m
+[0m[ INFO] [1557317800.120810151]: Queue empty[0m
+[0m[ INFO] [1557317800.140970883]: Queue empty[0m
+[0m[ INFO] [1557317800.165432618]: Queue empty[0m
+[0m[ INFO] [1557317800.189219235]: Queue empty[0m
+[0m[ INFO] [1557317800.200862199]: CPU NetVLAD heard: [321][0m
+[0m[ INFO] [1557317800.200941767]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317800.561207566]: image ID: 321; starting time: 1557317800.200970380; finishing time: 1557317800.561154010[0m
+[0m[ INFO] [1557317800.567987579]: Queue empty[0m
+[0m[ INFO] [1557317800.571518955]: Queue empty[0m
+[0m[ INFO] [1557317800.591689378]: Queue empty[0m
+[0m[ INFO] [1557317800.611761801]: Queue empty[0m
+[0m[ INFO] [1557317800.631646115]: Queue empty[0m
+[0m[ INFO] [1557317800.651697716]: Queue empty[0m
+[0m[ INFO] [1557317800.671236095]: Queue empty[0m
+[0m[ INFO] [1557317800.691451252]: Queue empty[0m
+[0m[ INFO] [1557317800.711255698]: Queue empty[0m
+[0m[ INFO] [1557317800.731313910]: Queue empty[0m
+[0m[ INFO] [1557317800.751385833]: Queue empty[0m
+[0m[ INFO] [1557317800.771259796]: Queue empty[0m
+[0m[ INFO] [1557317800.795554084]: Queue empty[0m
+[0m[ INFO] [1557317800.811930295]: CPU NetVLAD heard: [331][0m
+[0m[ INFO] [1557317800.812016073]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317801.172192504]: image ID: 331; starting time: 1557317800.812045806; finishing time: 1557317801.172139118[0m
+[0m[ INFO] [1557317801.178558825]: CPU NetVLAD heard: [335][0m
+[0m[ INFO] [1557317801.178642884]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317801.538787881]: image ID: 335; starting time: 1557317801.178672237; finishing time: 1557317801.538727055[0m
+[0m[ INFO] [1557317801.544967874]: Queue empty[0m
+[0m[ INFO] [1557317801.548022172]: Queue empty[0m
+[0m[ INFO] [1557317801.568150021]: Queue empty[0m
+[0m[ INFO] [1557317801.588049996]: Queue empty[0m
+[0m[ INFO] [1557317801.608110458]: Queue empty[0m
+[0m[ INFO] [1557317801.628285952]: CPU NetVLAD heard: [345][0m
+[0m[ INFO] [1557317801.628371470]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317801.988612658]: image ID: 345; starting time: 1557317801.628400613; finishing time: 1557317801.988508237[0m
+[0m[ INFO] [1557317802.001935610]: CPU NetVLAD heard: [350][0m
+[0m[ INFO] [1557317802.002023709]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317802.362202251]: image ID: 350; starting time: 1557317802.002054482; finishing time: 1557317802.362149556[0m
+[0m[ INFO] [1557317802.368455891]: Queue empty[0m
+[0m[ INFO] [1557317802.371820010]: Queue empty[0m
+[0m[ INFO] [1557317802.391910035]: Queue empty[0m
+[0m[ INFO] [1557317802.413344336]: Queue empty[0m
+[0m[ INFO] [1557317802.434106058]: CPU NetVLAD heard: [359][0m
+[0m[ INFO] [1557317802.434192277]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317802.794398861]: image ID: 359; starting time: 1557317802.434222770; finishing time: 1557317802.794330725[0m
+[0m[ INFO] [1557317802.801752563]: Queue empty[0m
+[0m[ INFO] [1557317802.805829593]: Queue empty[0m
+[0m[ INFO] [1557317802.824975293]: Queue empty[0m
+[0m[ INFO] [1557317802.844860247]: Queue empty[0m
+[0m[ INFO] [1557317802.865659874]: Queue empty[0m
+[0m[ INFO] [1557317802.886630317]: Queue empty[0m
+[0m[ INFO] [1557317802.904764815]: Queue empty[0m
+[0m[ INFO] [1557317802.925051590]: Queue empty[0m
+[0m[ INFO] [1557317802.944807381]: Queue empty[0m
+[0m[ INFO] [1557317802.964851071]: Queue empty[0m
+[0m[ INFO] [1557317802.984823714]: Queue empty[0m
+[0m[ INFO] [1557317803.005153763]: CPU NetVLAD heard: [369][0m
+[0m[ INFO] [1557317803.005232631]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317803.365432296]: image ID: 369; starting time: 1557317803.005261804; finishing time: 1557317803.365367119[0m
+[0m[ INFO] [1557317803.371978235]: CPU NetVLAD heard: [373][0m
+[0m[ INFO] [1557317803.372062594]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317803.732237156]: image ID: 373; starting time: 1557317803.372093217; finishing time: 1557317803.732185691[0m
+[0m[ INFO] [1557317803.739945393]: CPU NetVLAD heard: [381][0m
+[0m[ INFO] [1557317803.740028021]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317804.100293893]: image ID: 381; starting time: 1557317803.740056654; finishing time: 1557317804.100186732[0m
+[0m[ INFO] [1557317804.106363484]: CPU NetVLAD heard: [389][0m
+[0m[ INFO] [1557317804.106443773]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317804.466622266]: image ID: 389; starting time: 1557317804.106473816; finishing time: 1557317804.466569180[0m
+[0m[ INFO] [1557317804.472876136]: Queue empty[0m
+[0m[ INFO] [1557317804.476345766]: Queue empty[0m
+[0m[ INFO] [1557317804.498029581]: Queue empty[0m
+[0m[ INFO] [1557317804.516589992]: Queue empty[0m
+[0m[ INFO] [1557317804.536162105]: Queue empty[0m
+[0m[ INFO] [1557317804.556382903]: Queue empty[0m
+[0m[ INFO] [1557317804.576483969]: Queue empty[0m
+[0m[ INFO] [1557317804.596358872]: Queue empty[0m
+[0m[ INFO] [1557317804.616412203]: CPU NetVLAD heard: [398][0m
+[0m[ INFO] [1557317804.616500852]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317804.976697527]: image ID: 398; starting time: 1557317804.616530995; finishing time: 1557317804.976631241[0m
+[0m[ INFO] [1557317804.985027057]: Queue empty[0m
+[0m[ INFO] [1557317804.988202827]: Queue empty[0m
+[0m[ INFO] [1557317805.011634059]: Queue empty[0m
+[0m[ INFO] [1557317805.031220133]: Queue empty[0m
+[0m[ INFO] [1557317805.048234278]: Queue empty[0m
+[0m[ INFO] [1557317805.068297440]: Queue empty[0m
+[0m[ INFO] [1557317805.088226399]: Queue empty[0m
+[0m[ INFO] [1557317805.112518897]: Queue empty[0m
+[0m[ INFO] [1557317805.128668675]: Queue empty[0m
+[0m[ INFO] [1557317805.148282272]: CPU NetVLAD heard: [407][0m
+[0m[ INFO] [1557317805.148373671]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317805.508555416]: image ID: 407; starting time: 1557317805.148406055; finishing time: 1557317805.508498730[0m
+[0m[ INFO] [1557317805.718416798]: CPU NetVLAD heard: [412][0m
+[0m[ INFO] [1557317805.718500507]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317806.078703323]: image ID: 412; starting time: 1557317805.718529940; finishing time: 1557317806.078630366[0m
+[0m[ INFO] [1557317806.087647125]: CPU NetVLAD heard: [423][0m
+[0m[ INFO] [1557317806.087743195]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317806.447931910]: image ID: 423; starting time: 1557317806.087776078; finishing time: 1557317806.447872384[0m
+[0m[ INFO] [1557317806.454141756]: Queue empty[0m
+[0m[ INFO] [1557317806.457244749]: Queue empty[0m
+[0m[ INFO] [1557317806.477339184]: Queue empty[0m
+[0m[ INFO] [1557317806.497432360]: Queue empty[0m
+[0m[ INFO] [1557317806.518499633]: CPU NetVLAD heard: [432][0m
+[0m[ INFO] [1557317806.518591363]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317806.878781548]: image ID: 432; starting time: 1557317806.518623596; finishing time: 1557317806.878720842[0m
+[0m[ INFO] [1557317806.884984534]: Queue empty[0m
+[0m[ INFO] [1557317806.888381676]: Queue empty[0m
+[0m[ INFO] [1557317806.908163790]: Queue empty[0m
+[0m[ INFO] [1557317806.928226232]: Queue empty[0m
+[0m[ INFO] [1557317806.951424731]: Queue empty[0m
+[0m[ INFO] [1557317806.969476790]: CPU NetVLAD heard: [440][0m
+[0m[ INFO] [1557317806.969564209]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317807.329850985]: image ID: 440; starting time: 1557317806.969697332; finishing time: 1557317807.329794370[0m
+[0m[ INFO] [1557317807.337627169]: Queue empty[0m
+[0m[ INFO] [1557317807.341030962]: Queue empty[0m
+[0m[ INFO] [1557317807.361437279]: Queue empty[0m
+[0m[ INFO] [1557317807.388659313]: Queue empty[0m
+[0m[ INFO] [1557317807.402654044]: Queue empty[0m
+[0m[ INFO] [1557317807.421954299]: CPU NetVLAD heard: [448][0m
+[0m[ INFO] [1557317807.422037067]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317807.782221323]: image ID: 448; starting time: 1557317807.422068141; finishing time: 1557317807.782162978[0m
+[0m[ INFO] [1557317807.788703177]: Queue empty[0m
+[0m[ INFO] [1557317807.792020371]: Queue empty[0m
+[0m[ INFO] [1557317807.812412607]: Queue empty[0m
+[0m[ INFO] [1557317807.832337775]: Queue empty[0m
+[0m[ INFO] [1557317807.854363535]: Queue empty[0m
+[0m[ INFO] [1557317807.875553841]: CPU NetVLAD heard: [456][0m
+[0m[ INFO] [1557317807.875639020]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317808.235839448]: image ID: 456; starting time: 1557317807.875668833; finishing time: 1557317808.235766531[0m
+[0m[ INFO] [1557317808.241978367]: Queue empty[0m
+[0m[ INFO] [1557317808.245228164]: Queue empty[0m
+[0m[ INFO] [1557317808.266173966]: Queue empty[0m
+[0m[ INFO] [1557317808.285189642]: Queue empty[0m
+[0m[ INFO] [1557317808.307631265]: Queue empty[0m
+[0m[ INFO] [1557317808.327967534]: CPU NetVLAD heard: [464][0m
+[0m[ INFO] [1557317808.328055263]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317808.688229609]: image ID: 464; starting time: 1557317808.328083966; finishing time: 1557317808.688175374[0m
+[0m[ INFO] [1557317808.695194291]: Queue empty[0m
+[0m[ INFO] [1557317808.700488775]: Queue empty[0m
+[0m[ INFO] [1557317808.718824663]: Queue empty[0m
+[0m[ INFO] [1557317808.738440760]: Queue empty[0m
+[0m[ INFO] [1557317808.758359578]: Queue empty[0m
+[0m[ INFO] [1557317808.778481186]: Queue empty[0m
+[0m[ INFO] [1557317808.805793609]: Queue empty[0m
+[0m[ INFO] [1557317808.818340634]: Queue empty[0m
+[0m[ INFO] [1557317808.840894238]: CPU NetVLAD heard: [473][0m
+[0m[ INFO] [1557317808.840982917]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317809.201166904]: image ID: 473; starting time: 1557317808.841015610; finishing time: 1557317809.201110698[0m
+[0m[ INFO] [1557317809.212002936]: Queue empty[0m
+[0m[ INFO] [1557317809.224238469]: Queue empty[0m
+[0m[ INFO] [1557317809.239725870]: Queue empty[0m
+[0m[ INFO] [1557317809.255137584]: Queue empty[0m
+[0m[ INFO] [1557317809.275124679]: Queue empty[0m
+[0m[ INFO] [1557317809.295141216]: Queue empty[0m
+[0m[ INFO] [1557317809.326176995]: Queue empty[0m
+[0m[ INFO] [1557317809.335103645]: CPU NetVLAD heard: [482][0m
+[0m[ INFO] [1557317809.335190153]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317809.695364980]: image ID: 482; starting time: 1557317809.335221457; finishing time: 1557317809.695312205[0m
+[0m[ INFO] [1557317809.701442803]: Queue empty[0m
+[0m[ INFO] [1557317809.704404561]: Queue empty[0m
+[0m[ INFO] [1557317809.724758383]: Queue empty[0m
+[0m[ INFO] [1557317809.745002444]: Queue empty[0m
+[0m[ INFO] [1557317809.764612230]: Queue empty[0m
+[0m[ INFO] [1557317809.784717487]: Queue empty[0m
+[0m[ INFO] [1557317809.804782890]: Queue empty[0m
+[0m[ INFO] [1557317809.824899997]: Queue empty[0m
+[0m[ INFO] [1557317809.845965741]: CPU NetVLAD heard: [491][0m
+[0m[ INFO] [1557317809.846063131]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317810.206254509]: image ID: 491; starting time: 1557317809.846098444; finishing time: 1557317810.206194853[0m
+[0m[ INFO] [1557317810.213481788]: Queue empty[0m
+[0m[ INFO] [1557317810.216591231]: Queue empty[0m
+[0m[ INFO] [1557317810.238356635]: Queue empty[0m
+[0m[ INFO] [1557317810.259146141]: Queue empty[0m
+[0m[ INFO] [1557317810.279388852]: Queue empty[0m
+[0m[ INFO] [1557317810.297697447]: CPU NetVLAD heard: [499][0m
+[0m[ INFO] [1557317810.297860174]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317810.658043402]: image ID: 499; starting time: 1557317810.297893207; finishing time: 1557317810.657987246[0m
+[0m[ INFO] [1557317810.664607653]: CPU NetVLAD heard: [504][0m
+[0m[ INFO] [1557317810.664687631]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317811.024876260]: image ID: 504; starting time: 1557317810.664716584; finishing time: 1557317811.024814924[0m
+[0m[ INFO] [1557317811.031699138]: Queue empty[0m
+[0m[ INFO] [1557317811.034799100]: Queue empty[0m
+[0m[ INFO] [1557317811.060376669]: Queue empty[0m
+[0m[ INFO] [1557317811.075823656]: Queue empty[0m
+[0m[ INFO] [1557317811.095326882]: CPU NetVLAD heard: [513][0m
+[0m[ INFO] [1557317811.095416271]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317811.455622212]: image ID: 513; starting time: 1557317811.095450014; finishing time: 1557317811.455553035[0m
+[0m[ INFO] [1557317811.464597247]: CPU NetVLAD heard: [518][0m
+[0m[ INFO] [1557317811.464686676]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317811.824872735]: image ID: 518; starting time: 1557317811.464719369; finishing time: 1557317811.824815629[0m
+[0m[ INFO] [1557317811.830659758]: Queue empty[0m
+[0m[ INFO] [1557317811.833539969]: Queue empty[0m
+[0m[ INFO] [1557317811.854232544]: Queue empty[0m
+[0m[ INFO] [1557317811.875561034]: Queue empty[0m
+[0m[ INFO] [1557317811.894167240]: CPU NetVLAD heard: [527][0m
+[0m[ INFO] [1557317811.894267790]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317812.254449879]: image ID: 527; starting time: 1557317811.894302474; finishing time: 1557317812.254395724[0m
+[0m[ INFO] [1557317812.262730234]: CPU NetVLAD heard: [532][0m
+[0m[ INFO] [1557317812.262821443]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317812.622998692]: image ID: 532; starting time: 1557317812.262853677; finishing time: 1557317812.622948137[0m
+[0m[ INFO] [1557317812.633520193]: CPU NetVLAD heard: [540][0m
+[0m[ INFO] [1557317812.633612732]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317812.993818024]: image ID: 540; starting time: 1557317812.633648206; finishing time: 1557317812.993749027[0m
+[0m[ INFO] [1557317813.001011499]: Queue empty[0m
+[0m[ INFO] [1557317813.004077548]: Queue empty[0m
+[0m[ INFO] [1557317813.024026529]: Queue empty[0m
+[0m[ INFO] [1557317813.044022965]: Queue empty[0m
+[0m[ INFO] [1557317813.064050274]: Queue empty[0m
+[0m[ INFO] [1557317813.084078413]: Queue empty[0m
+[0m[ INFO] [1557317813.103988190]: Queue empty[0m
+[0m[ INFO] [1557317813.124099128]: CPU NetVLAD heard: [549][0m
+[0m[ INFO] [1557317813.124188097]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317813.484378267]: image ID: 549; starting time: 1557317813.124221920; finishing time: 1557317813.484320092[0m
+[0m[ INFO] [1557317813.491468652]: CPU NetVLAD heard: [553][0m
+[0m[ INFO] [1557317813.491556321]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317813.851749092]: image ID: 553; starting time: 1557317813.491587954; finishing time: 1557317813.851687476[0m
+[0m[ INFO] [1557317813.858899593]: CPU NetVLAD heard: [561][0m
+[0m[ INFO] [1557317813.858991692]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317814.219187594]: image ID: 561; starting time: 1557317813.859025546; finishing time: 1557317814.219127358[0m
+[0m[ INFO] [1557317814.227264009]: Queue empty[0m
+[0m[ INFO] [1557317814.239133605]: Queue empty[0m
+[0m[ INFO] [1557317814.252347877]: Queue empty[0m
+[0m[ INFO] [1557317814.270553353]: Queue empty[0m
+[0m[ INFO] [1557317814.290641198]: Queue empty[0m
+[0m[ INFO] [1557317814.311449355]: Queue empty[0m
+[0m[ INFO] [1557317814.330535780]: Queue empty[0m
+[0m[ INFO] [1557317814.350504123]: Queue empty[0m
+[0m[ INFO] [1557317814.370603469]: Queue empty[0m
+[0m[ INFO] [1557317814.393949242]: Queue empty[0m
+[0m[ INFO] [1557317814.412072860]: Queue empty[0m
+[0m[ INFO] [1557317814.430766634]: CPU NetVLAD heard: [570][0m
+[0m[ INFO] [1557317814.430896747]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317814.791078308]: image ID: 570; starting time: 1557317814.430928380; finishing time: 1557317814.791023623[0m
+[0m[ INFO] [1557317814.797952131]: CPU NetVLAD heard: [575][0m
+[0m[ INFO] [1557317814.798036189]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317815.158220111]: image ID: 575; starting time: 1557317814.798070073; finishing time: 1557317815.158169786[0m
+[0m[ INFO] [1557317815.164828217]: CPU NetVLAD heard: [583][0m
+[0m[ INFO] [1557317815.164913856]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317815.525188096]: image ID: 583; starting time: 1557317815.165038398; finishing time: 1557317815.525137681[0m
+[0m[ INFO] [1557317815.533580362]: Queue empty[0m
+[0m[ INFO] [1557317815.538238192]: Queue empty[0m
+[0m[ INFO] [1557317815.556916555]: Queue empty[0m
+[0m[ INFO] [1557317815.577194369]: Queue empty[0m
+[0m[ INFO] [1557317815.597108027]: Queue empty[0m
+[0m[ INFO] [1557317815.616931916]: Queue empty[0m
+[0m[ INFO] [1557317815.636957444]: Queue empty[0m
+[0m[ INFO] [1557317815.656960331]: Queue empty[0m
+[0m[ INFO] [1557317815.676805732]: Queue empty[0m
+[0m[ INFO] [1557317815.696838701]: Queue empty[0m
+[0m[ INFO] [1557317815.716769671]: Queue empty[0m
+[0m[ INFO] [1557317815.737119792]: Queue empty[0m
+[0m[ INFO] [1557317815.758495627]: CPU NetVLAD heard: [594][0m
+[0m[ INFO] [1557317815.758590607]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317816.119229725]: image ID: 594; starting time: 1557317815.758624070; finishing time: 1557317816.119160018[0m
+[0m[ INFO] [1557317816.126490897]: CPU NetVLAD heard: [597][0m
+[0m[ INFO] [1557317816.126575885]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317816.486782210]: image ID: 597; starting time: 1557317816.126609209; finishing time: 1557317816.486720894[0m
+[0m[ INFO] [1557317816.494994698]: CPU NetVLAD heard: [605][0m
+[0m[ INFO] [1557317816.495093058]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317816.855308463]: image ID: 605; starting time: 1557317816.495124891; finishing time: 1557317816.855236406[0m
+[0m[ INFO] [1557317816.863567596]: Queue empty[0m
+[0m[ INFO] [1557317816.870243499]: Queue empty[0m
+[0m[ INFO] [1557317816.886809789]: Queue empty[0m
+[0m[ INFO] [1557317816.906905665]: Queue empty[0m
+[0m[ INFO] [1557317816.928241616]: Queue empty[0m
+[0m[ INFO] [1557317816.946985566]: Queue empty[0m
+[0m[ INFO] [1557317816.966783132]: Queue empty[0m
+[0m[ INFO] [1557317816.986812971]: Queue empty[0m
+[0m[ INFO] [1557317817.006777234]: Queue empty[0m
+[0m[ INFO] [1557317817.026829026]: Queue empty[0m
+[0m[ INFO] [1557317817.046868206]: Queue empty[0m
+[0m[ INFO] [1557317817.066603836]: CPU NetVLAD heard: [617][0m
+[0m[ INFO] [1557317817.066717537]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317817.426925413]: image ID: 617; starting time: 1557317817.066752351; finishing time: 1557317817.426853985[0m
+[0m[ INFO] [1557317817.435586566]: CPU NetVLAD heard: [623][0m
+[0m[ INFO] [1557317817.435668924]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317817.795898102]: image ID: 623; starting time: 1557317817.435698957; finishing time: 1557317817.795846147[0m
+[0m[ INFO] [1557317817.808167719]: Queue empty[0m
+[0m[ INFO] [1557317817.814321719]: Queue empty[0m
+[0m[ INFO] [1557317817.832971309]: Queue empty[0m
+[0m[ INFO] [1557317817.852944483]: Queue empty[0m
+[0m[ INFO] [1557317817.873010876]: Queue empty[0m
+[0m[ INFO] [1557317817.895975851]: Queue empty[0m
+[0m[ INFO] [1557317817.911687826]: Queue empty[0m
+[0m[ INFO] [1557317817.931460409]: CPU NetVLAD heard: [633][0m
+[0m[ INFO] [1557317817.931538567]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317818.291715170]: image ID: 633; starting time: 1557317817.931569770; finishing time: 1557317818.291661034[0m
+[0m[ INFO] [1557317818.298235477]: CPU NetVLAD heard: [637][0m
+[0m[ INFO] [1557317818.298397493]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317818.658592528]: image ID: 637; starting time: 1557317818.298430757; finishing time: 1557317818.658535173[0m
+[0m[ INFO] [1557317818.664961051]: CPU NetVLAD heard: [645][0m
+[0m[ INFO] [1557317818.665049149]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317819.025238744]: image ID: 645; starting time: 1557317818.665080723; finishing time: 1557317819.025180328[0m
+[0m[ INFO] [1557317819.031759271]: Queue empty[0m
+[0m[ INFO] [1557317819.036070426]: Queue empty[0m
+[0m[ INFO] [1557317819.054895334]: Queue empty[0m
+[0m[ INFO] [1557317819.074852026]: Queue empty[0m
+[0m[ INFO] [1557317819.097473637]: Queue empty[0m
+[0m[ INFO] [1557317819.120827201]: Queue empty[0m
+[0m[ INFO] [1557317819.136177809]: Queue empty[0m
+[0m[ INFO] [1557317819.154925919]: Queue empty[0m
+[0m[ INFO] [1557317819.179342381]: Queue empty[0m
+[0m[ INFO] [1557317819.195692769]: Queue empty[0m
+[0m[ INFO] [1557317819.215500797]: Queue empty[0m
+[0m[ INFO] [1557317819.234498262]: Queue empty[0m
+[0m[ INFO] [1557317819.255466586]: Queue empty[0m
+[0m[ INFO] [1557317819.275579094]: Queue empty[0m
+[0m[ INFO] [1557317819.295597312]: Queue empty[0m
+[0m[ INFO] [1557317819.316606110]: Queue empty[0m
+[0m[ INFO] [1557317819.335612797]: Queue empty[0m
+[0m[ INFO] [1557317819.357131346]: Queue empty[0m
+[0m[ INFO] [1557317819.378505971]: Queue empty[0m
+[0m[ INFO] [1557317819.395954190]: CPU NetVLAD heard: [660][0m
+[0m[ INFO] [1557317819.396042739]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317819.756373519]: image ID: 660; starting time: 1557317819.396074562; finishing time: 1557317819.756308672[0m
+[0m[ INFO] [1557317819.763892917]: Queue empty[0m
+[0m[ INFO] [1557317819.767263527]: Queue empty[0m
+[0m[ INFO] [1557317819.787020969]: Queue empty[0m
+[0m[ INFO] [1557317819.806897203]: Queue empty[0m
+[0m[ INFO] [1557317819.827264146]: Queue empty[0m
+[0m[ INFO] [1557317819.847245120]: Queue empty[0m
+[0m[ INFO] [1557317819.867257848]: Queue empty[0m
+[0m[ INFO] [1557317819.889188489]: Queue empty[0m
+[0m[ INFO] [1557317819.912314271]: CPU NetVLAD heard: [669][0m
+[0m[ INFO] [1557317819.912408800]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317820.272596376]: image ID: 669; starting time: 1557317819.912441394; finishing time: 1557317820.272541940[0m
+[0m[ INFO] [1557317820.282077402]: CPU NetVLAD heard: [672][0m
+[0m[ INFO] [1557317820.282159490]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317820.642355037]: image ID: 672; starting time: 1557317820.282193153; finishing time: 1557317820.642287130[0m
+[0m[ INFO] [1557317820.653324063]: CPU NetVLAD heard: [680][0m
+[0m[ INFO] [1557317820.653405341]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317821.013609408]: image ID: 680; starting time: 1557317820.653434694; finishing time: 1557317821.013540041[0m
+[0m[ INFO] [1557317821.026801618]: Queue empty[0m
+[0m[ INFO] [1557317821.030751966]: Queue empty[0m
+[0m[ INFO] [1557317821.049862813]: Queue empty[0m
+[0m[ INFO] [1557317821.069930357]: Queue empty[0m
+[0m[ INFO] [1557317821.089857456]: Queue empty[0m
+[0m[ INFO] [1557317821.114194640]: Queue empty[0m
+[0m[ INFO] [1557317821.129959979]: CPU NetVLAD heard: [691][0m
+[0m[ INFO] [1557317821.130039597]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317821.490225053]: image ID: 691; starting time: 1557317821.130071390; finishing time: 1557317821.490170718[0m
+[0m[ INFO] [1557317821.501221682]: CPU NetVLAD heard: [695][0m
+[0m[ INFO] [1557317821.501307681]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317821.861491387]: image ID: 695; starting time: 1557317821.501336904; finishing time: 1557317821.861432191[0m
+[0m[ INFO] [1557317821.868422286]: CPU NetVLAD heard: [704][0m
+[0m[ INFO] [1557317821.868506064]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317822.230810354]: image ID: 704; starting time: 1557317821.868538707; finishing time: 1557317822.230742097[0m
+[0m[ INFO] [1557317822.244028067]: Queue empty[0m
+[0m[ INFO] [1557317822.256299004]: Queue empty[0m
+[0m[ INFO] [1557317822.271145371]: Queue empty[0m
+[0m[ INFO] [1557317822.288496161]: Queue empty[0m
+[0m[ INFO] [1557317822.306995336]: Queue empty[0m
+[0m[ INFO] [1557317822.327283011]: Queue empty[0m
+[0m[ INFO] [1557317822.347298189]: Queue empty[0m
+[0m[ INFO] [1557317822.367160012]: Queue empty[0m
+[0m[ INFO] [1557317822.395379447]: Queue empty[0m
+[0m[ INFO] [1557317822.407353615]: CPU NetVLAD heard: [714][0m
+[0m[ INFO] [1557317822.407433943]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317822.767619900]: image ID: 714; starting time: 1557317822.407465526; finishing time: 1557317822.767560294[0m
+[0m[ INFO] [1557317822.777418798]: CPU NetVLAD heard: [720][0m
+[0m[ INFO] [1557317822.777502256]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317823.137686153]: image ID: 720; starting time: 1557317822.777535039; finishing time: 1557317823.137632538[0m
+[0m[ INFO] [1557317823.144394650]: Queue empty[0m
+[0m[ INFO] [1557317823.151548461]: Queue empty[0m
+[0m[ INFO] [1557317823.167608810]: Queue empty[0m
+[0m[ INFO] [1557317823.187450931]: Queue empty[0m
+[0m[ INFO] [1557317823.207651998]: Queue empty[0m
+[0m[ INFO] [1557317823.235098215]: Queue empty[0m
+[0m[ INFO] [1557317823.251977637]: Queue empty[0m
+[0m[ INFO] [1557317823.267652478]: CPU NetVLAD heard: [729][0m
+[0m[ INFO] [1557317823.267733706]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317823.627949716]: image ID: 729; starting time: 1557317823.267765509; finishing time: 1557317823.627877269[0m
+[0m[ INFO] [1557317823.637834703]: CPU NetVLAD heard: [735][0m
+[0m[ INFO] [1557317823.637923892]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317823.998139193]: image ID: 735; starting time: 1557317823.637956816; finishing time: 1557317823.998065085[0m
+[0m[ INFO] [1557317824.009945163]: Queue empty[0m
+[0m[ INFO] [1557317824.017030348]: Queue empty[0m
+[0m[ INFO] [1557317824.033260774]: Queue empty[0m
+[0m[ INFO] [1557317824.053342929]: Queue empty[0m
+[0m[ INFO] [1557317824.073306532]: Queue empty[0m
+[0m[ INFO] [1557317824.093598408]: Queue empty[0m
+[0m[ INFO] [1557317824.114080333]: Queue empty[0m
+[0m[ INFO] [1557317824.133364348]: CPU NetVLAD heard: [744][0m
+[0m[ INFO] [1557317824.133444956]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317824.493642215]: image ID: 744; starting time: 1557317824.133476489; finishing time: 1557317824.493576159[0m
+[0m[ INFO] [1557317824.500893096]: Queue empty[0m
+[0m[ INFO] [1557317824.504113081]: Queue empty[0m
+[0m[ INFO] [1557317824.524138100]: Queue empty[0m
+[0m[ INFO] [1557317824.544748809]: Queue empty[0m
+[0m[ INFO] [1557317824.564303770]: Queue empty[0m
+[0m[ INFO] [1557317824.584467223]: Queue empty[0m
+[0m[ INFO] [1557317824.605290943]: Queue empty[0m
+[0m[ INFO] [1557317824.624075567]: Queue empty[0m
+[0m[ INFO] [1557317824.644745841]: Queue empty[0m
+[0m[ INFO] [1557317824.665060150]: Queue empty[0m
+[0m[ INFO] [1557317824.685204901]: Queue empty[0m
+[0m[ INFO] [1557317824.705095857]: Queue empty[0m
+[0m[ INFO] [1557317824.725088533]: Queue empty[0m
+[0m[ INFO] [1557317824.745214562]: Queue empty[0m
+[0m[ INFO] [1557317824.764918159]: Queue empty[0m
+[0m[ INFO] [1557317824.786539079]: CPU NetVLAD heard: [755][0m
+[0m[ INFO] [1557317824.786620147]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317825.146838109]: image ID: 755; starting time: 1557317824.786651930; finishing time: 1557317825.146761591[0m
+[0m[ INFO] [1557317825.162187366]: CPU NetVLAD heard: [758][0m
+[0m[ INFO] [1557317825.162269775]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317825.522470115]: image ID: 758; starting time: 1557317825.162302878; finishing time: 1557317825.522403739[0m
+[0m[ INFO] [1557317825.531122248]: CPU NetVLAD heard: [766][0m
+[0m[ INFO] [1557317825.531206006]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317825.891444910]: image ID: 766; starting time: 1557317825.531291285; finishing time: 1557317825.891387475[0m
+[0m[ INFO] [1557317825.898872299]: Queue empty[0m
+[0m[ INFO] [1557317825.904047751]: Queue empty[0m
+[0m[ INFO] [1557317825.922321524]: Queue empty[0m
+[0m[ INFO] [1557317825.942062284]: Queue empty[0m
+[0m[ INFO] [1557317825.963749231]: Queue empty[0m
+[0m[ INFO] [1557317825.982333635]: Queue empty[0m
+[0m[ INFO] [1557317826.001982366]: Queue empty[0m
+[0m[ INFO] [1557317826.023306127]: Queue empty[0m
+[0m[ INFO] [1557317826.042303842]: Queue empty[0m
+[0m[ INFO] [1557317826.065663818]: Queue empty[0m
+[0m[ INFO] [1557317826.082077043]: Queue empty[0m
+[0m[ INFO] [1557317826.102353397]: CPU NetVLAD heard: [777][0m
+[0m[ INFO] [1557317826.102440916]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317826.462626066]: image ID: 777; starting time: 1557317826.102471059; finishing time: 1557317826.462572180[0m
+[0m[ INFO] [1557317826.469380097]: CPU NetVLAD heard: [782][0m
+[0m[ INFO] [1557317826.469464425]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317826.829644945]: image ID: 782; starting time: 1557317826.469496939; finishing time: 1557317826.829594489[0m
+[0m[ INFO] [1557317826.836120598]: CPU NetVLAD heard: [790][0m
+[0m[ INFO] [1557317826.836202296]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317827.197335131]: image ID: 790; starting time: 1557317826.836231299; finishing time: 1557317827.197281086[0m
+[0m[ INFO] [1557317827.207225659]: Queue empty[0m
+[0m[ INFO] [1557317827.211025622]: Queue empty[0m
+[0m[ INFO] [1557317827.230500566]: Queue empty[0m
+[0m[ INFO] [1557317827.250415564]: Queue empty[0m
+[0m[ INFO] [1557317827.270460735]: Queue empty[0m
+[0m[ INFO] [1557317827.290414517]: Queue empty[0m
+[0m[ INFO] [1557317827.312110585]: Queue empty[0m
+[0m[ INFO] [1557317827.330501230]: CPU NetVLAD heard: [799][0m
+[0m[ INFO] [1557317827.330590759]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317827.690897151]: image ID: 799; starting time: 1557317827.330619591; finishing time: 1557317827.690838495[0m
+[0m[ INFO] [1557317827.699795628]: CPU NetVLAD heard: [804][0m
+[0m[ INFO] [1557317827.699889128]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317828.060071328]: image ID: 804; starting time: 1557317827.699918171; finishing time: 1557317828.060011952[0m
+[0m[ INFO] [1557317828.066488595]: Queue empty[0m
+[0m[ INFO] [1557317828.069807990]: Queue empty[0m
+[0m[ INFO] [1557317828.092018069]: Queue empty[0m
+[0m[ INFO] [1557317828.111618986]: CPU NetVLAD heard: [813][0m
+[0m[ INFO] [1557317828.111723057]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317828.471921389]: image ID: 813; starting time: 1557317828.111756130; finishing time: 1557317828.471851312[0m
+[0m[ INFO] [1557317828.478490631]: Queue empty[0m
+[0m[ INFO] [1557317828.482205576]: Queue empty[0m
+[0m[ INFO] [1557317828.502122884]: Queue empty[0m
+[0m[ INFO] [1557317828.521862845]: Queue empty[0m
+[0m[ INFO] [1557317828.542652571]: Queue empty[0m
+[0m[ INFO] [1557317828.561697012]: Queue empty[0m
+[0m[ INFO] [1557317828.581922001]: Queue empty[0m
+[0m[ INFO] [1557317828.601730999]: Queue empty[0m
+[0m[ INFO] [1557317828.624160461]: Queue empty[0m
+[0m[ INFO] [1557317828.643214842]: CPU NetVLAD heard: [822][0m
+[0m[ INFO] [1557317828.643320293]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317829.003500053]: image ID: 822; starting time: 1557317828.643352376; finishing time: 1557317829.003447948[0m
+[0m[ INFO] [1557317829.009531071]: Queue empty[0m
+[0m[ INFO] [1557317829.012633324]: Queue empty[0m
+[0m[ INFO] [1557317829.032814399]: Queue empty[0m
+[0m[ INFO] [1557317829.052843419]: Queue empty[0m
+[0m[ INFO] [1557317829.074716805]: Queue empty[0m
+[0m[ INFO] [1557317829.095320973]: Queue empty[0m
+[0m[ INFO] [1557317829.112769702]: Queue empty[0m
+[0m[ INFO] [1557317829.132722344]: Queue empty[0m
+[0m[ INFO] [1557317829.153256265]: Queue empty[0m
+[0m[ INFO] [1557317829.175967115]: Queue empty[0m
+[0m[ INFO] [1557317829.199057334]: Queue empty[0m
+[0m[ INFO] [1557317829.214098170]: CPU NetVLAD heard: [832][0m
+[0m[ INFO] [1557317829.214196830]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317829.574380572]: image ID: 832; starting time: 1557317829.214227123; finishing time: 1557317829.574326296[0m
+[0m[ INFO] [1557317829.580728332]: Queue empty[0m
+[0m[ INFO] [1557317829.583975739]: Queue empty[0m
+[0m[ INFO] [1557317829.604149534]: Queue empty[0m
+[0m[ INFO] [1557317829.624111257]: Queue empty[0m
+[0m[ INFO] [1557317829.644120685]: Queue empty[0m
+[0m[ INFO] [1557317829.664396129]: Queue empty[0m
+[0m[ INFO] [1557317829.684132339]: Queue empty[0m
+[0m[ INFO] [1557317829.704112224]: Queue empty[0m
+[0m[ INFO] [1557317829.724359566]: Queue empty[0m
+[0m[ INFO] [1557317829.744095196]: Queue empty[0m
+[0m[ INFO] [1557317829.764138317]: Queue empty[0m
+[0m[ INFO] [1557317829.784180758]: Queue empty[0m
+[0m[ INFO] [1557317829.804090126]: Queue empty[0m
+[0m[ INFO] [1557317829.824103604]: Queue empty[0m
+[0m[ INFO] [1557317829.844371338]: Queue empty[0m
+[0m[ INFO] [1557317829.864055043]: Queue empty[0m
+[0m[ INFO] [1557317829.884216306]: Queue empty[0m
+[0m[ INFO] [1557317829.904158907]: Queue empty[0m
+[0m[ INFO] [1557317829.924021880]: Queue empty[0m
+[0m[ INFO] [1557317829.944090564]: Queue empty[0m
+[0m[ INFO] [1557317829.964225415]: Queue empty[0m
+[0m[ INFO] [1557317829.984065085]: Queue empty[0m
+[0m[ INFO] [1557317830.004126488]: Queue empty[0m
+[0m[ INFO] [1557317830.024443707]: Queue empty[0m
+[0m[ INFO] [1557317830.044053185]: Queue empty[0m
+[0m[ INFO] [1557317830.064107057]: Queue empty[0m
+[0m[ INFO] [1557317830.084242077]: Queue empty[0m
+[0m[ INFO] [1557317830.104066917]: Queue empty[0m
+[0m[ INFO] [1557317830.124091586]: Queue empty[0m
+[0m[ INFO] [1557317830.144359630]: Queue empty[0m
+[0m[ INFO] [1557317830.164059776]: Queue empty[0m
+[0m[ INFO] [1557317830.184017319]: Queue empty[0m
+[0m[ INFO] [1557317830.204523087]: Queue empty[0m
+[0m[ INFO] [1557317830.223927944]: Queue empty[0m
+[0m[ INFO] [1557317830.253304796]: Queue empty[0m
+[0m[ INFO] [1557317830.265314847]: CPU NetVLAD heard: [850][0m
+[0m[ INFO] [1557317830.265400776]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317830.625581568]: image ID: 850; starting time: 1557317830.265430379; finishing time: 1557317830.625524102[0m
+[0m[ INFO] [1557317830.633383585]: CPU NetVLAD heard: [854][0m
+[0m[ INFO] [1557317830.633479324]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317830.993667087]: image ID: 854; starting time: 1557317830.633511888; finishing time: 1557317830.993605031[0m
+[0m[ INFO] [1557317831.000664133]: Queue empty[0m
+[0m[ INFO] [1557317831.007240856]: Queue empty[0m
+[0m[ INFO] [1557317831.024165763]: CPU NetVLAD heard: [863][0m
+[0m[ INFO] [1557317831.024264323]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317831.384449136]: image ID: 863; starting time: 1557317831.024296636; finishing time: 1557317831.384392600[0m
+[0m[ INFO] [1557317831.391043821]: CPU NetVLAD heard: [867][0m
+[0m[ INFO] [1557317831.391147291]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317831.751347906]: image ID: 867; starting time: 1557317831.391178674; finishing time: 1557317831.751277789[0m
+[0m[ INFO] [1557317831.762136624]: CPU NetVLAD heard: [875][0m
+[0m[ INFO] [1557317831.762221212]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317832.122406246]: image ID: 875; starting time: 1557317831.762252406; finishing time: 1557317832.122348210[0m
+[0m[ INFO] [1557317832.128861467]: Queue empty[0m
+[0m[ INFO] [1557317832.132069540]: Queue empty[0m
+[0m[ INFO] [1557317832.152217922]: Queue empty[0m
+[0m[ INFO] [1557317832.173809670]: CPU NetVLAD heard: [883][0m
+[0m[ INFO] [1557317832.173918011]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317832.534101104]: image ID: 883; starting time: 1557317832.173949394; finishing time: 1557317832.534046659[0m
+[0m[ INFO] [1557317832.540746974]: Queue empty[0m
+[0m[ INFO] [1557317832.543932426]: Queue empty[0m
+[0m[ INFO] [1557317832.565901691]: Queue empty[0m
+[0m[ INFO] [1557317832.584083535]: Queue empty[0m
+[0m[ INFO] [1557317832.604153709]: Queue empty[0m
+[0m[ INFO] [1557317832.624130423]: Queue empty[0m
+[0m[ INFO] [1557317832.644138221]: Queue empty[0m
+[0m[ INFO] [1557317832.664197974]: Queue empty[0m
+[0m[ INFO] [1557317832.684115293]: Queue empty[0m
+[0m[ INFO] [1557317832.704154474]: Queue empty[0m
+[0m[ INFO] [1557317832.724190234]: Queue empty[0m
+[0m[ INFO] [1557317832.744065799]: Queue empty[0m
+[0m[ INFO] [1557317832.764108310]: Queue empty[0m
+[0m[ INFO] [1557317832.783959092]: Queue empty[0m
+[0m[ INFO] [1557317832.804007094]: Queue empty[0m
+[0m[ INFO] [1557317832.829444719]: Queue empty[0m
+[0m[ INFO] [1557317832.845506359]: Queue empty[0m
+[0m[ INFO] [1557317832.865739639]: CPU NetVLAD heard: [895][0m
+[0m[ INFO] [1557317832.865829668]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317833.226018213]: image ID: 895; starting time: 1557317832.865860401; finishing time: 1557317833.225957757[0m
+[0m[ INFO] [1557317833.232800337]: CPU NetVLAD heard: [899][0m
+[0m[ INFO] [1557317833.232890546]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317833.593075880]: image ID: 899; starting time: 1557317833.232922959; finishing time: 1557317833.593023545[0m
+[0m[ INFO] [1557317833.599716270]: CPU NetVLAD heard: [908][0m
+[0m[ INFO] [1557317833.599811970]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317833.959996814]: image ID: 908; starting time: 1557317833.599841813; finishing time: 1557317833.959936688[0m
+[0m[ INFO] [1557317833.966487989]: Queue empty[0m
+[0m[ INFO] [1557317833.969692682]: Queue empty[0m
+[0m[ INFO] [1557317833.989750785]: Queue empty[0m
+[0m[ INFO] [1557317834.009723819]: Queue empty[0m
+[0m[ INFO] [1557317834.030037168]: Queue empty[0m
+[0m[ INFO] [1557317834.050181219]: Queue empty[0m
+[0m[ INFO] [1557317834.070003508]: CPU NetVLAD heard: [916][0m
+[0m[ INFO] [1557317834.070090457]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317834.430270882]: image ID: 916; starting time: 1557317834.070120290; finishing time: 1557317834.430214106[0m
+[0m[ INFO] [1557317834.437259287]: CPU NetVLAD heard: [920][0m
+[0m[ INFO] [1557317834.437343305]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317834.797547692]: image ID: 920; starting time: 1557317834.437378019; finishing time: 1557317834.797486886[0m
+[0m[ INFO] [1557317834.805839819]: CPU NetVLAD heard: [928][0m
+[0m[ INFO] [1557317834.805922937]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317835.166112633]: image ID: 928; starting time: 1557317834.805953830; finishing time: 1557317835.166052907[0m
+[0m[ INFO] [1557317835.172676265]: Queue empty[0m
+[0m[ INFO] [1557317835.176589800]: Queue empty[0m
+[0m[ INFO] [1557317835.196216939]: Queue empty[0m
+[0m[ INFO] [1557317835.216013346]: CPU NetVLAD heard: [936][0m
+[0m[ INFO] [1557317835.216114346]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317835.576361678]: image ID: 936; starting time: 1557317835.216145399; finishing time: 1557317835.576279100[0m
+[0m[ INFO] [1557317835.586844175]: Queue empty[0m
+[0m[ INFO] [1557317835.593288165]: Queue empty[0m
+[0m[ INFO] [1557317835.610234214]: Queue empty[0m
+[0m[ INFO] [1557317835.630460284]: Queue empty[0m
+[0m[ INFO] [1557317835.652538301]: Queue empty[0m
+[0m[ INFO] [1557317835.670257018]: Queue empty[0m
+[0m[ INFO] [1557317835.690298439]: Queue empty[0m
+[0m[ INFO] [1557317835.710703407]: Queue empty[0m
+[0m[ INFO] [1557317835.731863461]: Queue empty[0m
+[0m[ INFO] [1557317835.754456269]: Queue empty[0m
+[0m[ INFO] [1557317835.770209988]: Queue empty[0m
+[0m[ INFO] [1557317835.790086143]: Queue empty[0m
+[0m[ INFO] [1557317835.810072858]: Queue empty[0m
+[0m[ INFO] [1557317835.829973686]: Queue empty[0m
+[0m[ INFO] [1557317835.850801666]: Queue empty[0m
+[0m[ INFO] [1557317835.870426455]: CPU NetVLAD heard: [948][0m
+[0m[ INFO] [1557317835.870595432]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317836.230814772]: image ID: 948; starting time: 1557317835.870626806; finishing time: 1557317836.230745335[0m
+[0m[ INFO] [1557317836.244169379]: CPU NetVLAD heard: [952][0m
+[0m[ INFO] [1557317836.244262638]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317836.604453526]: image ID: 952; starting time: 1557317836.244294292; finishing time: 1557317836.604390949[0m
+[0m[ INFO] [1557317836.612807678]: CPU NetVLAD heard: [960][0m
+[0m[ INFO] [1557317836.612912359]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317836.973098515]: image ID: 960; starting time: 1557317836.612946312; finishing time: 1557317836.973041390[0m
+[0m[ INFO] [1557317836.981884501]: Queue empty[0m
+[0m[ INFO] [1557317836.986168934]: Queue empty[0m
+[0m[ INFO] [1557317837.004993802]: Queue empty[0m
+[0m[ INFO] [1557317837.025142754]: CPU NetVLAD heard: [969][0m
+[0m[ INFO] [1557317837.025226183]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317837.385433112]: image ID: 969; starting time: 1557317837.025257756; finishing time: 1557317837.385366815[0m
+[0m[ INFO] [1557317837.393432019]: Queue empty[0m
+[0m[ INFO] [1557317837.402665610]: Queue empty[0m
+[0m[ INFO] [1557317837.421710811]: Queue empty[0m
+[0m[ INFO] [1557317837.437119465]: Queue empty[0m
+[0m[ INFO] [1557317837.457433544]: Queue empty[0m
+[0m[ INFO] [1557317837.478556254]: Queue empty[0m
+[0m[ INFO] [1557317837.499256582]: Queue empty[0m
+[0m[ INFO] [1557317837.517981891]: Queue empty[0m
+[0m[ INFO] [1557317837.537195798]: Queue empty[0m
+[0m[ INFO] [1557317837.557089095]: Queue empty[0m
+[0m[ INFO] [1557317837.577167140]: Queue empty[0m
+[0m[ INFO] [1557317837.598495411]: Queue empty[0m
+[0m[ INFO] [1557317837.617173365]: Queue empty[0m
+[0m[ INFO] [1557317837.637106085]: CPU NetVLAD heard: [980][0m
+[0m[ INFO] [1557317837.637185363]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317837.997372791]: image ID: 980; starting time: 1557317837.637214066; finishing time: 1557317837.997314595[0m
+[0m[ INFO] [1557317838.004308200]: CPU NetVLAD heard: [985][0m
+[0m[ INFO] [1557317838.004398029]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317838.364606970]: image ID: 985; starting time: 1557317838.004429352; finishing time: 1557317838.364537182[0m
+[0m[ INFO] [1557317838.371226617]: Queue empty[0m
+[0m[ INFO] [1557317838.374582036]: Queue empty[0m
+[0m[ INFO] [1557317838.394516746]: Queue empty[0m
+[0m[ INFO] [1557317838.414939156]: Queue empty[0m
+[0m[ INFO] [1557317838.435684958]: CPU NetVLAD heard: [994][0m
+[0m[ INFO] [1557317838.435814851]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317838.796541154]: image ID: 994; starting time: 1557317838.435883228; finishing time: 1557317838.796466786[0m
+[0m[ INFO] [1557317838.805963294]: CPU NetVLAD heard: [1000][0m
+[0m[ INFO] [1557317838.806050643]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317839.166250093]: image ID: 1000; starting time: 1557317838.806081176; finishing time: 1557317839.166183966[0m
+[0m[ INFO] [1557317839.181260427]: Queue empty[0m
+[0m[ INFO] [1557317839.186623418]: Queue empty[0m
+[0m[ INFO] [1557317839.204746926]: Queue empty[0m
+[0m[ INFO] [1557317839.224730511]: Queue empty[0m
+[0m[ INFO] [1557317839.244687884]: Queue empty[0m
+[0m[ INFO] [1557317839.264578960]: Queue empty[0m
+[0m[ INFO] [1557317839.284959516]: Queue empty[0m
+[0m[ INFO] [1557317839.304563253]: Queue empty[0m
+[0m[ INFO] [1557317839.325666332]: Queue empty[0m
+[0m[ INFO] [1557317839.344560337]: Queue empty[0m
+[0m[ INFO] [1557317839.365449154]: Queue empty[0m
+[0m[ INFO] [1557317839.385838621]: CPU NetVLAD heard: [1011][0m
+[0m[ INFO] [1557317839.385926450]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317839.746102147]: image ID: 1011; starting time: 1557317839.385955953; finishing time: 1557317839.746051622[0m
+[0m[ INFO] [1557317839.752179570]: Queue empty[0m
+[0m[ INFO] [1557317839.964818497]: Queue empty[0m
+[0m[ INFO] [1557317839.969951505]: CPU NetVLAD heard: [1021][0m
+[0m[ INFO] [1557317839.970052605]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317840.330240715]: image ID: 1021; starting time: 1557317839.970085558; finishing time: 1557317840.330186009[0m
+[0m[ INFO] [1557317840.336746411]: CPU NetVLAD heard: [1026][0m
+[0m[ INFO] [1557317840.336853782]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317840.697044031]: image ID: 1026; starting time: 1557317840.336889835; finishing time: 1557317840.696992086[0m
+[0m[ INFO] [1557317840.705010785]: CPU NetVLAD heard: [1034][0m
+[0m[ INFO] [1557317840.705095614]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317841.065290414]: image ID: 1034; starting time: 1557317840.705126807; finishing time: 1557317841.065224967[0m
+[0m[ INFO] [1557317841.071216372]: Queue empty[0m
+[0m[ INFO] [1557317841.075060449]: Queue empty[0m
+[0m[ INFO] [1557317841.094298260]: Queue empty[0m
+[0m[ INFO] [1557317841.114297057]: Queue empty[0m
+[0m[ INFO] [1557317841.134283043]: Queue empty[0m
+[0m[ INFO] [1557317841.159898256]: Queue empty[0m
+[0m[ INFO] [1557317841.176424223]: Queue empty[0m
+[0m[ INFO] [1557317841.194526929]: CPU NetVLAD heard: [1043][0m
+[0m[ INFO] [1557317841.194614778]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317841.554816530]: image ID: 1043; starting time: 1557317841.194648112; finishing time: 1557317841.554740942[0m
+[0m[ INFO] [1557317841.561553229]: CPU NetVLAD heard: [1047][0m
+[0m[ INFO] [1557317841.561644409]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317841.921828318]: image ID: 1047; starting time: 1557317841.561678632; finishing time: 1557317841.921775143[0m
+[0m[ INFO] [1557317841.928516393]: CPU NetVLAD heard: [1056][0m
+[0m[ INFO] [1557317841.928601452]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317842.288792393]: image ID: 1056; starting time: 1557317841.928634435; finishing time: 1557317842.288736597[0m
+[0m[ INFO] [1557317842.295234842]: Queue empty[0m
+[0m[ INFO] [1557317842.303111237]: Queue empty[0m
+[0m[ INFO] [1557317842.318296799]: Queue empty[0m
+[0m[ INFO] [1557317842.338306297]: Queue empty[0m
+[0m[ INFO] [1557317842.358334467]: Queue empty[0m
+[0m[ INFO] [1557317842.383853431]: Queue empty[0m
+[0m[ INFO] [1557317842.399666346]: CPU NetVLAD heard: [1065][0m
+[0m[ INFO] [1557317842.399756175]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317842.759937725]: image ID: 1065; starting time: 1557317842.399790579; finishing time: 1557317842.759886230[0m
+[0m[ INFO] [1557317842.766234361]: Queue empty[0m
+[0m[ INFO] [1557317842.769661996]: Queue empty[0m
+[0m[ INFO] [1557317842.789225500]: Queue empty[0m
+[0m[ INFO] [1557317842.810084304]: Queue empty[0m
+[0m[ INFO] [1557317842.829297452]: Queue empty[0m
+[0m[ INFO] [1557317842.849293728]: Queue empty[0m
+[0m[ INFO] [1557317842.869344591]: Queue empty[0m
+[0m[ INFO] [1557317842.889402054]: Queue empty[0m
+[0m[ INFO] [1557317842.909484500]: Queue empty[0m
+[0m[ INFO] [1557317842.929404549]: CPU NetVLAD heard: [1074][0m
+[0m[ INFO] [1557317842.929490338]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317843.289670248]: image ID: 1074; starting time: 1557317842.929523271; finishing time: 1557317843.289618923[0m
+[0m[ INFO] [1557317843.297058874]: CPU NetVLAD heard: [1080][0m
+[0m[ INFO] [1557317843.297148383]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317843.657329944]: image ID: 1080; starting time: 1557317843.297181236; finishing time: 1557317843.657277168[0m
+[0m[ INFO] [1557317843.664718449]: Queue empty[0m
+[0m[ INFO] [1557317843.671893433]: Queue empty[0m
+[0m[ INFO] [1557317843.688905389]: Queue empty[0m
+[0m[ INFO] [1557317843.707988443]: CPU NetVLAD heard: [1088][0m
+[0m[ INFO] [1557317843.708074042]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317844.068265934]: image ID: 1088; starting time: 1557317843.708107905; finishing time: 1557317844.068207898[0m
+[0m[ INFO] [1557317844.077685584]: CPU NetVLAD heard: [1093][0m
+[0m[ INFO] [1557317844.077774563]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317844.437973417]: image ID: 1093; starting time: 1557317844.077809387; finishing time: 1557317844.437917241[0m
+[0m[ INFO] [1557317844.447618720]: Queue empty[0m
+[0m[ INFO] [1557317844.450726933]: Queue empty[0m
+[0m[ INFO] [1557317844.470642402]: Queue empty[0m
+[0m[ INFO] [1557317844.490777323]: Queue empty[0m
+[0m[ INFO] [1557317844.510756558]: Queue empty[0m
+[0m[ INFO] [1557317844.530621562]: Queue empty[0m
+[0m[ INFO] [1557317844.550668274]: Queue empty[0m
+[0m[ INFO] [1557317844.570798905]: Queue empty[0m
+[0m[ INFO] [1557317844.590630955]: Queue empty[0m
+[0m[ INFO] [1557317844.610861266]: Queue empty[0m
+[0m[ INFO] [1557317844.630992237]: Queue empty[0m
+[0m[ INFO] [1557317844.650941329]: CPU NetVLAD heard: [1104][0m
+[0m[ INFO] [1557317844.651024187]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317845.012084758]: image ID: 1104; starting time: 1557317844.651055580; finishing time: 1557317845.012016011[0m
+[0m[ INFO] [1557317845.021606728]: Queue empty[0m
+[0m[ INFO] [1557317845.024755866]: Queue empty[0m
+[0m[ INFO] [1557317845.044795267]: Queue empty[0m
+[0m[ INFO] [1557317845.065884044]: Queue empty[0m
+[0m[ INFO] [1557317845.086444738]: Queue empty[0m
+[0m[ INFO] [1557317845.104638664]: Queue empty[0m
+[0m[ INFO] [1557317845.125219980]: Queue empty[0m
+[0m[ INFO] [1557317845.144680833]: Queue empty[0m
+[0m[ INFO] [1557317845.164687861]: Queue empty[0m
+[0m[ INFO] [1557317845.184666666]: Queue empty[0m
+[0m[ INFO] [1557317845.204988836]: Queue empty[0m
+[0m[ INFO] [1557317845.229120150]: CPU NetVLAD heard: [1115][0m
+[0m[ INFO] [1557317845.229208639]: ############# 8.000000 ##################[0m
+[0m[ INFO] [1557317845.589402343]: image ID: 1115; starting time: 1557317845.229240313; finishing time: 1557317845.589337246[0m
+[0m[ INFO] [1557317845.596483147]: Queue empty[0m
+[0m[ INFO] [1557317845.599534365]: Queue empty[0m
+[0m[ INFO] [1557317845.823275424]: Queue empty[0m
+[0m[ INFO] [1557317845.826393769]: CPU NetVLAD heard: [1123][0m
+[0m[ INFO] [1557317845.826480027]: ############# 9.000000 ##################[0m
+[0m[ INFO] [1557317846.186661700]: image ID: 1123; starting time: 1557317845.826514391; finishing time: 1557317846.186608845[0m
+[0m[ INFO] [1557317846.193872317]: CPU NetVLAD heard: [1127][0m
+[0m[ INFO] [1557317846.193957006]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317846.554565672]: image ID: 1127; starting time: 1557317846.193988399; finishing time: 1557317846.554495285[0m
+[0m[ INFO] [1557317846.564099534]: CPU NetVLAD heard: [1135][0m
+[0m[ INFO] [1557317846.564182772]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317846.924362935]: image ID: 1135; starting time: 1557317846.564214255; finishing time: 1557317846.924310010[0m
+[0m[ INFO] [1557317846.930424947]: Queue empty[0m
+[0m[ INFO] [1557317846.933366803]: Queue empty[0m
+[0m[ INFO] [1557317846.953731308]: Queue empty[0m
+[0m[ INFO] [1557317846.973538446]: Queue empty[0m
+[0m[ INFO] [1557317846.993541133]: Queue empty[0m
+[0m[ INFO] [1557317847.015234752]: Queue empty[0m
+[0m[ INFO] [1557317847.033636958]: Queue empty[0m
+[0m[ INFO] [1557317847.054247607]: Queue empty[0m
+[0m[ INFO] [1557317847.073535713]: Queue empty[0m
+[0m[ INFO] [1557317847.101090693]: Queue empty[0m
+[0m[ INFO] [1557317847.114136569]: CPU NetVLAD heard: [1149][0m
+[0m[ INFO] [1557317847.114218217]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317847.474430494]: image ID: 1149; starting time: 1557317847.114252470; finishing time: 1557317847.474360716[0m
+[0m[ INFO] [1557317847.484037193]: CPU NetVLAD heard: [1153][0m
+[0m[ INFO] [1557317847.484123441]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317847.844312086]: image ID: 1153; starting time: 1557317847.484157925; finishing time: 1557317847.844254770[0m
+[0m[ INFO] [1557317847.850382788]: CPU NetVLAD heard: [1161][0m
+[0m[ INFO] [1557317847.850464166]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317848.210668643]: image ID: 1161; starting time: 1557317847.850497500; finishing time: 1557317848.210599926[0m
+[0m[ INFO] [1557317848.217506492]: Queue empty[0m
+[0m[ INFO] [1557317848.221482014]: Queue empty[0m
+[0m[ INFO] [1557317848.240753048]: Queue empty[0m
+[0m[ INFO] [1557317848.260908611]: Queue empty[0m
+[0m[ INFO] [1557317848.281640002]: CPU NetVLAD heard: [1170][0m
+[0m[ INFO] [1557317848.281725841]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317848.642080283]: image ID: 1170; starting time: 1557317848.281758034; finishing time: 1557317848.642025427[0m
+[0m[ INFO] [1557317848.648314941]: Queue empty[0m
+[0m[ INFO] [1557317848.651532696]: Queue empty[0m
+[0m[ INFO] [1557317848.671515902]: Queue empty[0m
+[0m[ INFO] [1557317848.691487267]: Queue empty[0m
+[0m[ INFO] [1557317848.711476243]: Queue empty[0m
+[0m[ INFO] [1557317848.731531576]: Queue empty[0m
+[0m[ INFO] [1557317848.752023053]: Queue empty[0m
+[0m[ INFO] [1557317848.771993798]: Queue empty[0m
+[0m[ INFO] [1557317848.792142210]: CPU NetVLAD heard: [1179][0m
+[0m[ INFO] [1557317848.792224959]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317849.152406163]: image ID: 1179; starting time: 1557317848.792253992; finishing time: 1557317849.152353488[0m
+[0m[ INFO] [1557317849.164344568]: CPU NetVLAD heard: [1183][0m
+[0m[ INFO] [1557317849.164426866]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317849.524636054]: image ID: 1183; starting time: 1557317849.164458729; finishing time: 1557317849.524559826[0m
+[0m[ INFO] [1557317849.535081088]: Queue empty[0m
+[0m[ INFO] [1557317849.538167989]: CPU NetVLAD heard: [1193][0m
+[0m[ INFO] [1557317849.538248367]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317849.898433242]: image ID: 1193; starting time: 1557317849.538281050; finishing time: 1557317849.898373316[0m
+[0m[ INFO] [1557317849.904527307]: Queue empty[0m
+[0m[ INFO] [1557317849.907681355]: Queue empty[0m
+[0m[ INFO] [1557317849.927852030]: Queue empty[0m
+[0m[ INFO] [1557317849.947855868]: Queue empty[0m
+[0m[ INFO] [1557317849.967901670]: Queue empty[0m
+[0m[ INFO] [1557317849.988435952]: Queue empty[0m
+[0m[ INFO] [1557317850.007809776]: CPU NetVLAD heard: [1201][0m
+[0m[ INFO] [1557317850.007894225]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317850.368085001]: image ID: 1201; starting time: 1557317850.007928748; finishing time: 1557317850.368026585[0m
+[0m[ INFO] [1557317850.375221111]: CPU NetVLAD heard: [1205][0m
+[0m[ INFO] [1557317850.375314371]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317850.735520699]: image ID: 1205; starting time: 1557317850.375354085; finishing time: 1557317850.735452562[0m
+[0m[ INFO] [1557317850.741676530]: Queue empty[0m
+[0m[ INFO] [1557317850.745048600]: Queue empty[0m
+[0m[ INFO] [1557317850.765034396]: Queue empty[0m
+[0m[ INFO] [1557317850.785118712]: CPU NetVLAD heard: [1215][0m
+[0m[ INFO] [1557317850.785201461]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317851.145400378]: image ID: 1215; starting time: 1557317850.785235494; finishing time: 1557317851.145337002[0m
+[0m[ INFO] [1557317851.152696555]: Queue empty[0m
+[0m[ INFO] [1557317851.156977506]: Queue empty[0m
+[0m[ INFO] [1557317851.175586674]: Queue empty[0m
+[0m[ INFO] [1557317851.196162129]: Queue empty[0m
+[0m[ INFO] [1557317851.219791853]: Queue empty[0m
+[0m[ INFO] [1557317851.236062845]: Queue empty[0m
+[0m[ INFO] [1557317851.256039640]: Queue empty[0m
+[0m[ INFO] [1557317851.276095223]: Queue empty[0m
+[0m[ INFO] [1557317851.296058957]: Queue empty[0m
+[0m[ INFO] [1557317851.316121381]: CPU NetVLAD heard: [1225][0m
+[0m[ INFO] [1557317851.316203790]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317851.676420220]: image ID: 1225; starting time: 1557317851.316237843; finishing time: 1557317851.676348782[0m
+[0m[ INFO] [1557317851.685487684]: Queue empty[0m
+[0m[ INFO] [1557317851.688593988]: Queue empty[0m
+[0m[ INFO] [1557317851.708665493]: Queue empty[0m
+[0m[ INFO] [1557317851.728491803]: Queue empty[0m
+[0m[ INFO] [1557317851.748488880]: Queue empty[0m
+[0m[ INFO] [1557317851.768520431]: Queue empty[0m
+[0m[ INFO] [1557317851.788578374]: Queue empty[0m
+[0m[ INFO] [1557317851.810048320]: CPU NetVLAD heard: [1233][0m
+[0m[ INFO] [1557317851.810138830]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317852.172165182]: image ID: 1233; starting time: 1557317851.810168663; finishing time: 1557317852.172094935[0m
+[0m[ INFO] [1557317852.180303123]: Queue empty[0m
+[0m[ INFO] [1557317852.183839190]: Queue empty[0m
+[0m[ INFO] [1557317852.203506784]: Queue empty[0m
+[0m[ INFO] [1557317852.223465298]: Queue empty[0m
+[0m[ INFO] [1557317852.243448404]: Queue empty[0m
+[0m[ INFO] [1557317852.263539821]: Queue empty[0m
+[0m[ INFO] [1557317852.283576922]: Queue empty[0m
+[0m[ INFO] [1557317852.303969689]: Queue empty[0m
+[0m[ INFO] [1557317852.324176598]: CPU NetVLAD heard: [1241][0m
+[0m[ INFO] [1557317852.324272078]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317852.684466186]: image ID: 1241; starting time: 1557317852.324306271; finishing time: 1557317852.684406240[0m
+[0m[ INFO] [1557317852.690726177]: Queue empty[0m
+[0m[ INFO] [1557317852.694857094]: Queue empty[0m
+[0m[ INFO] [1557317852.714209197]: Queue empty[0m
+[0m[ INFO] [1557317852.733861339]: Queue empty[0m
+[0m[ INFO] [1557317852.753811652]: Queue empty[0m
+[0m[ INFO] [1557317852.774030012]: Queue empty[0m
+[0m[ INFO] [1557317852.793690025]: Queue empty[0m
+[0m[ INFO] [1557317852.813684922]: Queue empty[0m
+[0m[ INFO] [1557317852.833752807]: Queue empty[0m
+[0m[ INFO] [1557317852.866978909]: Queue empty[0m
+[0m[ INFO] [1557317852.879779340]: Queue empty[0m
+[0m[ INFO] [1557317852.894157241]: CPU NetVLAD heard: [1251][0m
+[0m[ INFO] [1557317852.894242219]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317853.254554290]: image ID: 1251; starting time: 1557317852.894271242; finishing time: 1557317853.254502385[0m
+[0m[ INFO] [1557317853.261515432]: CPU NetVLAD heard: [1255][0m
+[0m[ INFO] [1557317853.261606441]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317853.621793230]: image ID: 1255; starting time: 1557317853.261640395; finishing time: 1557317853.621741494[0m
+[0m[ INFO] [1557317853.629155232]: CPU NetVLAD heard: [1263][0m
+[0m[ INFO] [1557317853.629257443]: ############# 3.000000 ##################[0m
+[0m[ INFO] [1557317853.989448381]: image ID: 1263; starting time: 1557317853.629292286; finishing time: 1557317853.989390015[0m
+[0m[ INFO] [1557317854.199244727]: Queue empty[0m
+[0m[ INFO] [1557317854.203814788]: CPU NetVLAD heard: [1272][0m
+[0m[ INFO] [1557317854.203905238]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317854.564107468]: image ID: 1272; starting time: 1557317854.203938321; finishing time: 1557317854.564040431[0m
+[0m[ INFO] [1557317854.571914396]: CPU NetVLAD heard: [1276][0m
+[0m[ INFO] [1557317854.572010485]: ############# 10.000000 ##################[0m
+[0m[ INFO] [1557317854.932251990]: image ID: 1276; starting time: 1557317854.572044709; finishing time: 1557317854.932199604[0m
+[0m[ INFO] [1557317854.938159316]: CPU NetVLAD heard: [1285][0m
+[0m[ INFO] [1557317854.938243614]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317855.298432334]: image ID: 1285; starting time: 1557317854.938280138; finishing time: 1557317855.298378358[0m
+[0m[ INFO] [1557317855.305032250]: CPU NetVLAD heard: [1294][0m
+[0m[ INFO] [1557317855.305115338]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317855.665299167]: image ID: 1294; starting time: 1557317855.305151592; finishing time: 1557317855.665246282[0m
+[0m[ INFO] [1557317855.671388672]: Queue empty[0m
+[0m[ INFO] [1557317855.674284214]: Queue empty[0m
+[0m[ INFO] [1557317855.694521846]: Queue empty[0m
+[0m[ INFO] [1557317855.714385240]: Queue empty[0m
+[0m[ INFO] [1557317855.734385257]: Queue empty[0m
+[0m[ INFO] [1557317855.754499237]: Queue empty[0m
+[0m[ INFO] [1557317855.774582363]: Queue empty[0m
+[0m[ INFO] [1557317855.794675250]: Queue empty[0m
+[0m[ INFO] [1557317855.814737044]: CPU NetVLAD heard: [1303][0m
+[0m[ INFO] [1557317855.814818742]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317856.175012713]: image ID: 1303; starting time: 1557317855.814851216; finishing time: 1557317856.174950657[0m
+[0m[ INFO] [1557317856.181786286]: CPU NetVLAD heard: [1307][0m
+[0m[ INFO] [1557317856.181879486]: ############# 1.000000 ##################[0m
+[0m[ INFO] [1557317856.542062896]: image ID: 1307; starting time: 1557317856.181911929; finishing time: 1557317856.542009850[0m
+[0m[ INFO] [1557317856.549813198]: Queue empty[0m
+[0m[ INFO] [1557317856.552903799]: Queue empty[0m
+[0m[ INFO] [1557317856.575271936]: Queue empty[0m
+[0m[ INFO] [1557317856.593900576]: Queue empty[0m
+[0m[ INFO] [1557317856.614456890]: Queue empty[0m
+[0m[ INFO] [1557317856.634051517]: Queue empty[0m
+[0m[ INFO] [1557317856.652965735]: Queue empty[0m
+[0m[ INFO] [1557317856.674085976]: Queue empty[0m
+[0m[ INFO] [1557317856.694367262]: Queue empty[0m
+[0m[ INFO] [1557317856.715178272]: Queue empty[0m
+[0m[ INFO] [1557317856.733871868]: CPU NetVLAD heard: [1318][0m
+[0m[ INFO] [1557317856.733954526]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317857.094137596]: image ID: 1318; starting time: 1557317856.733986229; finishing time: 1557317857.094082720[0m
+[0m[ INFO] [1557317857.104428074]: CPU NetVLAD heard: [1324][0m
+[0m[ INFO] [1557317857.104511313]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317857.464815205]: image ID: 1324; starting time: 1557317857.104543206; finishing time: 1557317857.464745968[0m
+[0m[ INFO] [1557317857.472690330]: Queue empty[0m
+[0m[ INFO] [1557317857.475961220]: Queue empty[0m
+[0m[ INFO] [1557317857.496010023]: Queue empty[0m
+[0m[ INFO] [1557317857.515971337]: Queue empty[0m
+[0m[ INFO] [1557317857.535965484]: Queue empty[0m
+[0m[ INFO] [1557317857.562012722]: Queue empty[0m
+[0m[ INFO] [1557317857.577043739]: Queue empty[0m
+[0m[ INFO] [1557317857.596236015]: CPU NetVLAD heard: [1333][0m
+[0m[ INFO] [1557317857.596327104]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317857.957678772]: image ID: 1333; starting time: 1557317857.596370478; finishing time: 1557317857.957618946[0m
+[0m[ INFO] [1557317857.965791591]: CPU NetVLAD heard: [1337][0m
+[0m[ INFO] [1557317857.965874229]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317858.326065181]: image ID: 1337; starting time: 1557317857.965903172; finishing time: 1557317858.325999745[0m
+[0m[ INFO] [1557317858.337293564]: CPU NetVLAD heard: [1346][0m
+[0m[ INFO] [1557317858.337379453]: ############# 2.000000 ##################[0m
+[0m[ INFO] [1557317858.697563744]: image ID: 1346; starting time: 1557317858.337409376; finishing time: 1557317858.697506428[0m
+[0m[ INFO] [1557317858.705537789]: Queue empty[0m
+[0m[ INFO] [1557317858.710615131]: Queue empty[0m
+[0m[ INFO] [1557317858.730485656]: Queue empty[0m
+[0m[ INFO] [1557317858.750379063]: Queue empty[0m
+[0m[ INFO] [1557317858.770473820]: Queue empty[0m
+[0m[ INFO] [1557317858.789343374]: Queue empty[0m
+[0m[ INFO] [1557317858.811744304]: Queue empty[0m
+[0m[ INFO] [1557317858.828696785]: CPU NetVLAD heard: [1354][0m
+[0m[ INFO] [1557317858.828778493]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317859.188963765]: image ID: 1354; starting time: 1557317858.828808526; finishing time: 1557317859.188906029[0m
+[0m[ INFO] [1557317859.199575306]: Queue empty[0m
+[0m[ INFO] [1557317859.202973878]: Queue empty[0m
+[0m[ INFO] [1557317859.224065126]: Queue empty[0m
+[0m[ INFO] [1557317859.246004770]: Queue empty[0m
+[0m[ INFO] [1557317859.263656471]: Queue empty[0m
+[0m[ INFO] [1557317859.283083061]: Queue empty[0m
+[0m[ INFO] [1557317859.302978759]: Queue empty[0m
+[0m[ INFO] [1557317859.325838635]: Queue empty[0m
+[0m[ INFO] [1557317859.345644304]: Queue empty[0m
+[0m[ INFO] [1557317859.365068043]: Queue empty[0m
+[0m[ INFO] [1557317859.383185351]: Queue empty[0m
+[0m[ INFO] [1557317859.403244195]: Queue empty[0m
+[0m[ INFO] [1557317859.425234344]: Queue empty[0m
+[0m[ INFO] [1557317859.443046951]: Queue empty[0m
+[0m[ INFO] [1557317859.463268942]: Queue empty[0m
+[0m[ INFO] [1557317859.485184133]: Queue empty[0m
+[0m[ INFO] [1557317859.503045865]: Queue empty[0m
+[0m[ INFO] [1557317859.523134602]: Queue empty[0m
+[0m[ INFO] [1557317859.545201659]: Queue empty[0m
+[0m[ INFO] [1557317859.563236428]: Queue empty[0m
+[0m[ INFO] [1557317859.583393662]: Queue empty[0m
+[0m[ INFO] [1557317859.605088221]: Queue empty[0m
+[0m[ INFO] [1557317859.623074096]: Queue empty[0m
+[0m[ INFO] [1557317859.643592746]: Queue empty[0m
+[0m[ INFO] [1557317859.663137008]: Queue empty[0m
+[0m[ INFO] [1557317859.683584871]: Queue empty[0m
+[0m[ INFO] [1557317859.702597369]: Queue empty[0m
+[0m[ INFO] [1557317859.722940352]: Queue empty[0m
+[0m[ INFO] [1557317859.743189755]: Queue empty[0m
+[0m[ INFO] [1557317859.762938318]: Queue empty[0m
+[0m[ INFO] [1557317859.782906703]: CPU NetVLAD heard: [1370][0m
+[0m[ INFO] [1557317859.782996522]: ############# 4.000000 ##################[0m
+[0m[ INFO] [1557317860.143176933]: image ID: 1370; starting time: 1557317859.783027655; finishing time: 1557317860.143123188[0m
+[0m[ INFO] [1557317860.154212827]: Queue empty[0m
+[0m[ INFO] [1557317860.158510040]: Queue empty[0m
+[0m[ INFO] [1557317860.178186836]: Queue empty[0m
+[0m[ INFO] [1557317860.197721607]: Queue empty[0m
+[0m[ INFO] [1557317860.223527781]: Queue empty[0m
+[0m[ INFO] [1557317860.237662117]: Queue empty[0m
+[0m[ INFO] [1557317860.257788108]: Queue empty[0m
+[0m[ INFO] [1557317860.277714118]: Queue empty[0m
+[0m[ INFO] [1557317860.297741789]: CPU NetVLAD heard: [1379][0m
+[0m[ INFO] [1557317860.297828228]: ############# 7.000000 ##################[0m
+[0m[ INFO] [1557317860.658022971]: image ID: 1379; starting time: 1557317860.297859891; finishing time: 1557317860.657957185[0m
+[0m[ INFO] [1557317860.668321250]: CPU NetVLAD heard: [1383][0m
+[0m[ INFO] [1557317860.668403949]: ############# 6.000000 ##################[0m
+[0m[ INFO] [1557317861.028597822]: image ID: 1383; starting time: 1557317860.668435892; finishing time: 1557317861.028531406[0m
+[0m[ INFO] [1557317861.035508270]: Queue empty[0m
+[0m[ INFO] [1557317861.039058438]: Queue empty[0m
+[0m[ INFO] [1557317861.058752945]: CPU NetVLAD heard: [1392][0m
+[0m[ INFO] [1557317861.058838034]: ############# 5.000000 ##################[0m
+[0m[ INFO] [1557317861.419041519]: image ID: 1392; starting time: 1557317861.058870467; finishing time: 1557317861.418974042[0m
+[0m[ INFO] [1557317861.431139609]: Queue empty[0m
+[0m[ INFO] [1557317861.436466527]: Queue empty[0m
+[0m[ INFO] [1557317861.454402707]: Queue empty[0m
+[0m[ INFO] [1557317861.474452020]: Queue empty[0m
+[0m[ INFO] [1557317861.494505763]: Queue empty[0m
+[0m[ INFO] [1557317861.514398510]: Queue empty[0m
+[0m[ INFO] [1557317861.543509688]: Queue empty[0m
+[0m[ INFO] [1557317861.562968071]: CPU NetVLAD heard: [1401][0m
+[0m[ INFO] [1557317861.563053210]: ############# 7.000000 ##################[0m
